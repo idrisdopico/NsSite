@@ -4,7 +4,8 @@
     /* App Module */
     angular.module('stationApp', [
         'controllers',
-        'ngAnimate'
+        'ngAnimate',
+        'uiGmapgoogle-maps'
     ]);
 
     angular.module('controllers', []);

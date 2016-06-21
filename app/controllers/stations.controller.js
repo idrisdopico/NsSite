@@ -42,9 +42,12 @@
         ];
 
         $http.get('data/trainstations.json').then(function(stations){
-            console.log(stations.data);
             vm.allStations = stations.data;
         });
+
+        vm.map = {
+          center: { latitude: 52, longitude: 5 }, zoom: 7
+        };
 
 
     }

@@ -3,12 +3,18 @@
  met ng-app vertellen we welke 'app' dit is en zo koppelen we alle instellingen van md2App
  -->
 <html ng-app="stationApp">
+
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
         <title>Station App</title>
         <link rel="stylesheet" href="style/css/default.css">
         <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+        <script src='lib/lodash.js'></script>
+        <script src='lib/angular.js'></script>
+        <script src='lib/angular-simple-logger.js'></script>
+        <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
+        <script src='lib/angular-google-maps.js'></script>
     </head>
     <body>
     <!-- met de ng-controller directive koppelen we een container aan een controller
@@ -38,6 +44,8 @@
                 <div>Het geselecteerde station: {{stations.currentStation.name}}</div>
                 <div>Type: {{stations.currentStation.type}}</div>
             </div>
+
+            <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'></ui-gmap-google-map>
 
         </div>
 

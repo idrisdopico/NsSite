@@ -85,3 +85,5 @@ body {
   -o-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
+
+.angular-google-map-container { height: 400px; }
