@@ -2,11 +2,11 @@
 <!-- ng-app is een 'directive'. Directives vertellen Angular dat je een bepaald gedrag wilt toevoegen
  met ng-app vertellen we welke 'app' dit is en zo koppelen we alle instellingen van md2App
  -->
-<html ng-app="md2App">
+<html ng-app="stationApp">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
-        <title>Voorbeeld Mediacollege</title>
+        <title>Station App</title>
         <link rel="stylesheet" href="style/css/default.css">
         <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
     </head>
@@ -14,26 +14,29 @@
     <!-- met de ng-controller directive koppelen we een container aan een controller
     met een controller geven we de 'view' toegang tot de 'model'
     -->
-        <div class="studentsList" ng-controller="StudentsController as students">
+        <div class="stationsList" ng-controller="StationsController as stations">
 
-            <div class="newStudent">
-                <input type="text" placeholder="naam" ng-model="students.newStudent.name">
-                <input type="text" placeholder="leeftijd" ng-model="students.newStudent.age">
-                <div class="newStudent-submit button" ng-click="students.createStudent()">Leerling toevoegen</div>
-            </div>
+            <!-- <div class="newStation">
+                <input type="text" placeholder="naam" ng-model="stations.newStation.name">
+                <input type="text" placeholder="type" ng-model="stations.newStation.age">
+                <div class="newStation-submit button" ng-click="stations.createStation()">Station toevoegen</div>
+            </div> -->
 
-            <div class="studentsList">
-                <div>Er zijn {{students.allStudents.length}} studenten in deze array</div>
-                <input type="text" placeholder="Doorzoek de lijst" ng-model="students.searchQuery">
-                <div ng-click="students.searchQuery='cee'">filter op cee</div>
-                <div class="studentsList-row animatedCSS" ng-class="{active:students.currentStudent==currentStudent}" ng-click="students.setStudent(currentStudent)" ng-repeat="currentStudent in students.allStudents | filter:students.searchQuery">
-                    {{currentStudent.name}}
+            <div class="stationsList">
+                <div>Er zijn {{stations.allStations.length}} stations in deze array
+                </div>
+                <input type="text" placeholder="Doorzoek de lijst" ng-model="stations.searchQuery">
+                <!--<div ng-click="stations.searchQuery='cee'">filter op cee</div>-->
+                <div ng-if="stations.searchQuery.length > 0">
+                	<div class="stationsList-row animatedCSS" ng-class="{active:stations.currentStation==currentStation}" ng-click="stations.setStation(currentStation)" ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery | limitTo:5">
+                	    {{currentStation.name}}
+                	</div>
                 </div>
             </div>
 
-            <div class="studentDetails animatedCSS" ng-if="students.currentStudent">
-                <div>De geselecteerde student is: {{students.currentStudent.name}}</div>
-                <div>Zijn/haar leeftijd is: {{students.currentStudent.age}}</div>
+            <div class="StationDetails animatedCSS" ng-if="stations.currentStation">
+                <div>Het geselecteerde station: {{stations.currentStation.name}}</div>
+                <div>Type: {{stations.currentStation.type}}</div>
             </div>
 
         </div>
@@ -41,6 +44,6 @@
         <script src="node_modules/angular/angular.js"></script>
         <script src="node_modules/angular-animate/angular-animate.js"></script>
         <script src="app/app.js"></script>
-        <script src="app/controllers/students.controller.js"></script>
+        <script src="app/controllers/stations.controller.js"></script>
     </body>
 </html>

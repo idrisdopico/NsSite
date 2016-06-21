@@ -15,7 +15,7 @@
     "angular",
     "md2"
   ],
-  "author": "Berend Weij",
+  "author": "Leroy Manshande",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.5",
