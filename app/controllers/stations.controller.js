@@ -49,6 +49,8 @@
           center: { latitude: 52, longitude: 5 }, zoom: 7
         };
 
+        //markers hier
+
 
     }
 
