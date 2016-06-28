@@ -33,8 +33,11 @@
                 </div>
                 <input type="text" placeholder="Doorzoek de lijst" ng-model="stations.searchQuery">
                 <!--<div ng-click="stations.searchQuery='cee'">filter op cee</div>-->
-                <div ng-if="stations.searchQuery.length > 0">
-                	<div class="stationsList-row animatedCSS" ng-class="{active:stations.currentStation==currentStation}" ng-click="stations.setStation(currentStation)" ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery | limitTo:5">
+                <div>
+                	<div class="stationsList-row animatedCSS"
+                        ng-class="{active:stations.currentStation==currentStation}"
+                        ng-click="stations.setStation(currentStation)"
+                        ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery as filtered">
                 	    {{currentStation.name}}
                 	</div>
                 </div>
@@ -45,13 +48,17 @@
                 <div>Type: {{stations.currentStation.type}}</div>
             </div>
 
-            <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'>
-              <!-- markers hier -->
-            </ui-gmap-google-map>
+            <div id="maps">
+              <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'>
+                <!-- markers hier -->
+                <ui-gmap-markers models="filtered" idKey="'uic'" coords="'self'" icon="'icon'">
+                </ui-gmap-markers>
+              </ui-gmap-google-map>
+            </div>
 
         </div>
 
-        <script src="node_modules/angular/angular.js"></script>
+
         <script src="node_modules/angular-animate/angular-animate.js"></script>
         <script src="app/app.js"></script>
         <script src="app/controllers/stations.controller.js"></script>

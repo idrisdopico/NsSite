@@ -10,6 +10,7 @@
         var vm = this;
 
         vm.newStation = {};
+        vm.filtered = [];
 
         vm.setStation = function(currentStation){
             if(vm.currentStation != currentStation)

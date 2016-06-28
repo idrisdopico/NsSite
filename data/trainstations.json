@@ -6,8 +6,8 @@
 	"shortName": "Abcoude",
 	"rdtURL": "abcoude",
 	"type": "stoptreinstation",
-	"geoLat": "52.2785",
-	"geoLong": "4977"
+	"latitude": "52.2785",
+	"longitude": "4977"
 }, {
 	"code": "ah",
 	"uic": "8400071",
@@ -16,8 +16,8 @@
 	"shortName": "Arnhem",
 	"rdtURL": "arnhem",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51985",
-	"geoLong": "5.8991666"
+	"latitude": "51985",
+	"longitude": "5.8991666"
 }, {
 	"code": "ahp",
 	"uic": "8400072",
@@ -26,8 +26,8 @@
 	"shortName": "Velperprt",
 	"rdtURL": "arnhem-velperpoort",
 	"type": "stoptreinstation",
-	"geoLat": "51.98528",
-	"geoLong": "5.9194446"
+	"latitude": "51.98528",
+	"longitude": "5.9194446"
 }, {
 	"code": "ahpr",
 	"uic": "8400075",
@@ -36,8 +36,8 @@
 	"shortName": "Presikhaaf",
 	"rdtURL": "arnhem-presikhaaf",
 	"type": "stoptreinstation",
-	"geoLat": "51.988056",
-	"geoLong": "5.9438887"
+	"latitude": "51.988056",
+	"longitude": "5.9438887"
 }, {
 	"code": "ahz",
 	"uic": "8400227",
@@ -46,8 +46,8 @@
 	"shortName": "Arnhem Z",
 	"rdtURL": "arnhem-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "51955",
-	"geoLong": "5.8519444"
+	"latitude": "51955",
+	"longitude": "5.8519444"
 }, {
 	"code": "akl",
 	"uic": "8400068",
@@ -56,8 +56,8 @@
 	"shortName": "Arkel",
 	"rdtURL": "arkel",
 	"type": "stoptreinstation",
-	"geoLat": "51.871944",
-	"geoLong": "4.992778"
+	"latitude": "51.871944",
+	"longitude": "4.992778"
 }, {
 	"code": "akm",
 	"uic": "8400049",
@@ -66,8 +66,8 @@
 	"shortName": "Akkrum",
 	"rdtURL": "akkrum",
 	"type": "stoptreinstation",
-	"geoLat": "53.04639",
-	"geoLong": "5.8436112"
+	"latitude": "53.04639",
+	"longitude": "5.8436112"
 }, {
 	"code": "alm",
 	"uic": "8400080",
@@ -76,8 +76,8 @@
 	"shortName": "Almere C",
 	"rdtURL": "almere-centrum",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.37503",
-	"geoLong": "5.21764"
+	"latitude": "52.37503",
+	"longitude": "5.21764"
 }, {
 	"code": "almb",
 	"uic": "8400081",
@@ -86,8 +86,8 @@
 	"shortName": "Buiten",
 	"rdtURL": "almere-buiten",
 	"type": "stoptreinstation",
-	"geoLat": "52.394165",
-	"geoLong": "5.2780557"
+	"latitude": "52.394165",
+	"longitude": "5.2780557"
 }, {
 	"code": "almm",
 	"uic": "8400082",
@@ -96,8 +96,8 @@
 	"shortName": "Muziekwijk",
 	"rdtURL": "almere-muziekwijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.3675",
-	"geoLong": "5.1902776"
+	"latitude": "52.3675",
+	"longitude": "5.1902776"
 }, {
 	"code": "almo",
 	"uic": "8400226",
@@ -106,8 +106,8 @@
 	"shortName": "Oostvaard",
 	"rdtURL": "almere-oostvaarders",
 	"type": "stoptreinstation",
-	"geoLat": "52.40333",
-	"geoLong": "5.3005557"
+	"latitude": "52.40333",
+	"longitude": "5.3005557"
 }, {
 	"code": "almp",
 	"uic": "8400104",
@@ -116,8 +116,8 @@
 	"shortName": "Parkwijk",
 	"rdtURL": "almere-parkwijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.376667",
-	"geoLong": "5.2447224"
+	"latitude": "52.376667",
+	"longitude": "5.2447224"
 }, {
 	"code": "amf",
 	"uic": "8400055",
@@ -126,8 +126,8 @@
 	"shortName": "Amersfoort",
 	"rdtURL": "amersfoort",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.15389",
-	"geoLong": "5.3705554"
+	"latitude": "52.15389",
+	"longitude": "5.3705554"
 }, {
 	"code": "amfs",
 	"uic": "8400054",
@@ -136,8 +136,8 @@
 	"shortName": "Schothorst",
 	"rdtURL": "amersfoort-schothorst",
 	"type": "stoptreinstation",
-	"geoLat": "52.174824",
-	"geoLong": "5.4038887"
+	"latitude": "52.174824",
+	"longitude": "5.4038887"
 }, {
 	"code": "aml",
 	"uic": "8400051",
@@ -146,8 +146,8 @@
 	"shortName": "Almelo",
 	"rdtURL": "almelo",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.358055",
-	"geoLong": "6.6538887"
+	"latitude": "52.358055",
+	"longitude": "6.6538887"
 }, {
 	"code": "amr",
 	"uic": "8400050",
@@ -156,8 +156,8 @@
 	"shortName": "Alkmaar",
 	"rdtURL": "alkmaar",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.63778",
-	"geoLong": "4.7397223"
+	"latitude": "52.63778",
+	"longitude": "4.7397223"
 }, {
 	"code": "amri",
 	"uic": "8400520",
@@ -166,8 +166,8 @@
 	"shortName": "de Riet",
 	"rdtURL": "almelo-de-riet",
 	"type": "stoptreinstation",
-	"geoLat": "52.341946",
-	"geoLong": "6.6666665"
+	"latitude": "52.341946",
+	"longitude": "6.6666665"
 }, {
 	"code": "amrn",
 	"uic": "8400052",
@@ -176,8 +176,8 @@
 	"shortName": "Alkmaar N",
 	"rdtURL": "alkmaar-noord",
 	"type": "stoptreinstation",
-	"geoLat": "52.64389",
-	"geoLong": "4.764167"
+	"latitude": "52.64389",
+	"longitude": "4.764167"
 }, {
 	"code": "ana",
 	"uic": "8400065",
@@ -186,8 +186,8 @@
 	"shortName": "Anna Paulo",
 	"rdtURL": "anna-paulowna",
 	"type": "stoptreinstation",
-	"geoLat": "52.86722",
-	"geoLong": "4.811111"
+	"latitude": "52.86722",
+	"longitude": "4.811111"
 }, {
 	"code": "apd",
 	"uic": "8400066",
@@ -196,8 +196,8 @@
 	"shortName": "Apeldoorn",
 	"rdtURL": "apeldoorn",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.209167",
-	"geoLong": "5.970278"
+	"latitude": "52.209167",
+	"longitude": "5.970278"
 }, {
 	"code": "apdm",
 	"uic": "8400233",
@@ -206,8 +206,8 @@
 	"shortName": "De Maten",
 	"rdtURL": "apeldoorn-de-maten",
 	"type": "stoptreinstation",
-	"geoLat": "52.205276",
-	"geoLong": "6.0005555"
+	"latitude": "52.205276",
+	"longitude": "6.0005555"
 }, {
 	"code": "apdo",
 	"uic": "8400229",
@@ -216,8 +216,8 @@
 	"shortName": "Osseveld",
 	"rdtURL": "apeldoorn-osseveld",
 	"type": "stoptreinstation",
-	"geoLat": "52.21528",
-	"geoLong": "6.0044446"
+	"latitude": "52.21528",
+	"longitude": "6.0044446"
 }, {
 	"code": "apg",
 	"uic": "8400067",
@@ -226,8 +226,8 @@
 	"shortName": "Appingedam",
 	"rdtURL": "appingedam",
 	"type": "stoptreinstation",
-	"geoLat": "53.325813",
-	"geoLong": "6.8619576"
+	"latitude": "53.325813",
+	"longitude": "6.8619576"
 }, {
 	"code": "apn",
 	"uic": "8400053",
@@ -236,8 +236,8 @@
 	"shortName": "Alphen",
 	"rdtURL": "alphen-a-d-rijn",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.124443",
-	"geoLong": "4.657778"
+	"latitude": "52.124443",
+	"longitude": "4.657778"
 }, {
 	"code": "arn",
 	"uic": "8400069",
@@ -246,8 +246,8 @@
 	"shortName": "Arnemuiden",
 	"rdtURL": "arnemuiden",
 	"type": "stoptreinstation",
-	"geoLat": "51.501667",
-	"geoLong": "3.6691666"
+	"latitude": "51.501667",
+	"longitude": "3.6691666"
 }, {
 	"code": "asa",
 	"uic": "8400057",
@@ -256,8 +256,8 @@
 	"shortName": "Amstel",
 	"rdtURL": "amsterdam-amstel",
 	"type": "intercitystation",
-	"geoLat": "52.34667",
-	"geoLong": "4.917778"
+	"latitude": "52.34667",
+	"longitude": "4.917778"
 }, {
 	"code": "asb",
 	"uic": "8400074",
@@ -266,8 +266,8 @@
 	"shortName": "Bijlmer A",
 	"rdtURL": "amsterdam-bijlmer-arena",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.31222",
-	"geoLong": "4.946944"
+	"latitude": "52.31222",
+	"longitude": "4.946944"
 }, {
 	"code": "asd",
 	"uic": "8400058",
@@ -276,8 +276,8 @@
 	"shortName": "A'dam C",
 	"rdtURL": "amsterdam-centraal",
 	"type": "megastation",
-	"geoLat": "52.378887",
-	"geoLong": "4.9002776"
+	"latitude": "52.378887",
+	"longitude": "4.9002776"
 }, {
 	"code": "asdl",
 	"uic": "8400079",
@@ -286,8 +286,8 @@
 	"shortName": "Lelylaan",
 	"rdtURL": "amsterdam-lelylaan",
 	"type": "stoptreinstation",
-	"geoLat": "52.357777",
-	"geoLong": "4.833889"
+	"latitude": "52.357777",
+	"longitude": "4.833889"
 }, {
 	"code": "asdm",
 	"uic": "8400060",
@@ -296,8 +296,8 @@
 	"shortName": "Muiderprt",
 	"rdtURL": "amsterdam-muiderpoort",
 	"type": "stoptreinstation",
-	"geoLat": "52.360554",
-	"geoLong": "4.9311113"
+	"latitude": "52.360554",
+	"longitude": "4.9311113"
 }, {
 	"code": "asdz",
 	"uic": "8400061",
@@ -306,8 +306,8 @@
 	"shortName": "A'dam Z",
 	"rdtURL": "amsterdam-zuid",
 	"type": "intercitystation",
-	"geoLat": "52.33889",
-	"geoLong": "4.8716664"
+	"latitude": "52.33889",
+	"longitude": "4.8716664"
 }, {
 	"code": "ashd",
 	"uic": "8400231",
@@ -316,8 +316,8 @@
 	"shortName": "Holendrcht",
 	"rdtURL": "amsterdam-holendrecht",
 	"type": "stoptreinstation",
-	"geoLat": "52.29844",
-	"geoLong": "4.95972"
+	"latitude": "52.29844",
+	"longitude": "4.95972"
 }, {
 	"code": "assp",
 	"uic": "8400235",
@@ -326,8 +326,8 @@
 	"shortName": "Scienceprk",
 	"rdtURL": "amsterdam-science-park",
 	"type": "stoptreinstation",
-	"geoLat": "52.35526",
-	"geoLong": "4.94651"
+	"latitude": "52.35526",
+	"longitude": "4.94651"
 }, {
 	"code": "asn",
 	"uic": "8400073",
@@ -336,8 +336,8 @@
 	"shortName": "Assen",
 	"rdtURL": "assen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.991665",
-	"geoLong": "6.570833"
+	"latitude": "52.991665",
+	"longitude": "6.570833"
 }, {
 	"code": "ass",
 	"uic": "8400059",
@@ -346,8 +346,8 @@
 	"shortName": "Sloterdijk",
 	"rdtURL": "amsterdam-sloterdijk",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.38889",
-	"geoLong": "4.8377776"
+	"latitude": "52.38889",
+	"longitude": "4.8377776"
 }, {
 	"code": "atn",
 	"uic": "8400045",
@@ -356,8 +356,8 @@
 	"shortName": "Aalten",
 	"rdtURL": "aalten",
 	"type": "stoptreinstation",
-	"geoLat": "51.921326",
-	"geoLong": "6.578627"
+	"latitude": "51.921326",
+	"longitude": "6.578627"
 }, {
 	"code": "avat",
 	"uic": "8400228",
@@ -366,8 +366,8 @@
 	"shortName": "Vathorst",
 	"rdtURL": "amersfoort-vathorst",
 	"type": "sneltreinstation",
-	"geoLat": "52.19278",
-	"geoLong": "5.433889"
+	"latitude": "52.19278",
+	"longitude": "5.433889"
 }, {
 	"code": "bd",
 	"uic": "8400131",
@@ -376,8 +376,8 @@
 	"shortName": "Breda",
 	"rdtURL": "breda",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.595554",
-	"geoLong": "4.78"
+	"latitude": "51.595554",
+	"longitude": "4.78"
 }, {
 	"code": "bde",
 	"uic": "8400140",
@@ -386,8 +386,8 @@
 	"shortName": "Bunde",
 	"rdtURL": "bunde",
 	"type": "stoptreinstation",
-	"geoLat": "50.896946",
-	"geoLong": "5.7366667"
+	"latitude": "50.896946",
+	"longitude": "5.7366667"
 }, {
 	"code": "bdg",
 	"uic": "8400121",
@@ -396,8 +396,8 @@
 	"shortName": "Bodegraven",
 	"rdtURL": "bodegraven",
 	"type": "stoptreinstation",
-	"geoLat": "52.08139",
-	"geoLong": "4.746111"
+	"latitude": "52.08139",
+	"longitude": "4.746111"
 }, {
 	"code": "bdm",
 	"uic": "8400094",
@@ -406,8 +406,8 @@
 	"shortName": "Bedum",
 	"rdtURL": "bedum",
 	"type": "stoptreinstation",
-	"geoLat": "53.306885",
-	"geoLong": "6.593054"
+	"latitude": "53.306885",
+	"longitude": "6.593054"
 }, {
 	"code": "bdpb",
 	"uic": "8400132",
@@ -416,8 +416,8 @@
 	"shortName": "Prinsenbk",
 	"rdtURL": "breda-prinsenbeek",
 	"type": "stoptreinstation",
-	"geoLat": "51.606388",
-	"geoLong": "4.7208333"
+	"latitude": "51.606388",
+	"longitude": "4.7208333"
 }, {
 	"code": "bet",
 	"uic": "8400112",
@@ -426,8 +426,8 @@
 	"shortName": "Best",
 	"rdtURL": "best",
 	"type": "stoptreinstation",
-	"geoLat": "51.51",
-	"geoLong": "5.389167"
+	"latitude": "51.51",
+	"longitude": "5.389167"
 }, {
 	"code": "bf",
 	"uic": "8400089",
@@ -436,8 +436,8 @@
 	"shortName": "Baflo",
 	"rdtURL": "baflo",
 	"type": "stoptreinstation",
-	"geoLat": "53.360897",
-	"geoLong": "6.518558"
+	"latitude": "53.360897",
+	"longitude": "6.518558"
 }, {
 	"code": "bgn",
 	"uic": "8400108",
@@ -446,8 +446,8 @@
 	"shortName": "Bergen opZ",
 	"rdtURL": "bergen-op-zoom",
 	"type": "stoptreinstation",
-	"geoLat": "51.49389",
-	"geoLong": "4.296111"
+	"latitude": "51.49389",
+	"longitude": "4.296111"
 }, {
 	"code": "bhv",
 	"uic": "8400114",
@@ -456,8 +456,8 @@
 	"shortName": "Bilthoven",
 	"rdtURL": "bilthoven",
 	"type": "stoptreinstation",
-	"geoLat": "52.13",
-	"geoLong": "5.203889"
+	"latitude": "52.13",
+	"longitude": "5.203889"
 }, {
 	"code": "bk",
 	"uic": "8400096",
@@ -466,8 +466,8 @@
 	"shortName": "Beek-E",
 	"rdtURL": "beek-elsloo",
 	"type": "stoptreinstation",
-	"geoLat": "50.9475",
-	"geoLong": "5.786667"
+	"latitude": "50.9475",
+	"longitude": "5.786667"
 }, {
 	"code": "bkf",
 	"uic": "8400230",
@@ -476,8 +476,8 @@
 	"shortName": "Bovenk Flo",
 	"rdtURL": "bovenkarspel-flora",
 	"type": "stoptreinstation",
-	"geoLat": "52.69611",
-	"geoLong": "5.2527776"
+	"latitude": "52.69611",
+	"longitude": "5.2527776"
 }, {
 	"code": "bkg",
 	"uic": "8400127",
@@ -486,8 +486,8 @@
 	"shortName": "Bovenk-Gr",
 	"rdtURL": "bovenkarspel-grootebroek",
 	"type": "stoptreinstation",
-	"geoLat": "52695",
-	"geoLong": "5.2377777"
+	"latitude": "52695",
+	"longitude": "5.2377777"
 }, {
 	"code": "bkl",
 	"uic": "8400133",
@@ -496,8 +496,8 @@
 	"shortName": "Breukelen",
 	"rdtURL": "breukelen",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.17149",
-	"geoLong": "4.9906"
+	"latitude": "52.17149",
+	"longitude": "4.9906"
 }, {
 	"code": "bl",
 	"uic": "8400100",
@@ -506,8 +506,8 @@
 	"shortName": "Beilen",
 	"rdtURL": "beilen",
 	"type": "stoptreinstation",
-	"geoLat": "52.85472",
-	"geoLong": "6.521111"
+	"latitude": "52.85472",
+	"longitude": "6.521111"
 }, {
 	"code": "bll",
 	"uic": "8400118",
@@ -516,8 +516,8 @@
 	"shortName": "Bloemendl",
 	"rdtURL": "bloemendaal",
 	"type": "stoptreinstation",
-	"geoLat": "52.404167",
-	"geoLong": "4.6275"
+	"latitude": "52.404167",
+	"longitude": "4.6275"
 }, {
 	"code": "bmn",
 	"uic": "8400136",
@@ -526,8 +526,8 @@
 	"shortName": "Brummen",
 	"rdtURL": "brummen",
 	"type": "stoptreinstation",
-	"geoLat": "52.09111",
-	"geoLong": "6.1469445"
+	"latitude": "52.09111",
+	"longitude": "6.1469445"
 }, {
 	"code": "bmr",
 	"uic": "8400128",
@@ -536,8 +536,8 @@
 	"shortName": "Boxmeer",
 	"rdtURL": "boxmeer",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.644524",
-	"geoLong": "5.939033"
+	"latitude": "51.644524",
+	"longitude": "5.939033"
 }, {
 	"code": "bn",
 	"uic": "8400124",
@@ -546,8 +546,8 @@
 	"shortName": "Borne",
 	"rdtURL": "borne",
 	"type": "stoptreinstation",
-	"geoLat": "52.29889",
-	"geoLong": "6.7480555"
+	"latitude": "52.29889",
+	"longitude": "6.7480555"
 }, {
 	"code": "bnc",
 	"uic": "8400091",
@@ -556,8 +556,8 @@
 	"shortName": "Barnevld C",
 	"rdtURL": "barneveld-centrum",
 	"type": "stoptreinstation",
-	"geoLat": "52.14",
-	"geoLong": "5.5902777"
+	"latitude": "52.14",
+	"longitude": "5.5902777"
 }, {
 	"code": "bnk",
 	"uic": "8400141",
@@ -566,8 +566,8 @@
 	"shortName": "Bunnik",
 	"rdtURL": "bunnik",
 	"type": "stoptreinstation",
-	"geoLat": "52.063057",
-	"geoLong": "5.1944447"
+	"latitude": "52.063057",
+	"longitude": "5.1944447"
 }, {
 	"code": "bnn",
 	"uic": "8400092",
@@ -576,8 +576,8 @@
 	"shortName": "Barnevld N",
 	"rdtURL": "barneveld-noord",
 	"type": "stoptreinstation",
-	"geoLat": "52.16139",
-	"geoLong": "5.5980554"
+	"latitude": "52.16139",
+	"longitude": "5.5980554"
 }, {
 	"code": "bp",
 	"uic": "8400139",
@@ -586,8 +586,8 @@
 	"shortName": "Buitenpost",
 	"rdtURL": "buitenpost",
 	"type": "knooppuntsneltreinstation",
-	"geoLat": "53.256454",
-	"geoLong": "6.1446495"
+	"latitude": "53.256454",
+	"longitude": "6.1446495"
 }, {
 	"code": "br",
 	"uic": "8400117",
@@ -596,8 +596,8 @@
 	"shortName": "Blerick",
 	"rdtURL": "blerick",
 	"type": "stoptreinstation",
-	"geoLat": "51.3725",
-	"geoLong": "6155"
+	"latitude": "51.3725",
+	"longitude": "6155"
 }, {
 	"code": "brd",
 	"uic": "8400090",
@@ -606,8 +606,8 @@
 	"shortName": "Barendrcht",
 	"rdtURL": "barendrecht",
 	"type": "stoptreinstation",
-	"geoLat": "51.85472",
-	"geoLong": "4.5533333"
+	"latitude": "51.85472",
+	"longitude": "4.5533333"
 }, {
 	"code": "brn",
 	"uic": "8400086",
@@ -616,8 +616,8 @@
 	"shortName": "Baarn",
 	"rdtURL": "baarn",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.208332",
-	"geoLong": "5.2808332"
+	"latitude": "52.208332",
+	"longitude": "5.2808332"
 }, {
 	"code": "bsd",
 	"uic": "8400097",
@@ -626,8 +626,8 @@
 	"shortName": "Beesd",
 	"rdtURL": "beesd",
 	"type": "stoptreinstation",
-	"geoLat": "51.899445",
-	"geoLong": "5.1944447"
+	"latitude": "51.899445",
+	"longitude": "5.1944447"
 }, {
 	"code": "bsk",
 	"uic": "8400125",
@@ -636,8 +636,8 @@
 	"shortName": "Boskoop",
 	"rdtURL": "boskoop",
 	"type": "stoptreinstation",
-	"geoLat": "52.077778",
-	"geoLong": "4.6469445"
+	"latitude": "52.077778",
+	"longitude": "4.6469445"
 }, {
 	"code": "bsmz",
 	"uic": "8400145",
@@ -646,8 +646,8 @@
 	"shortName": "Bussum Z",
 	"rdtURL": "bussum-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.265835",
-	"geoLong": "5.1630554"
+	"latitude": "52.265835",
+	"longitude": "5.1630554"
 }, {
 	"code": "btl",
 	"uic": "8400129",
@@ -656,8 +656,8 @@
 	"shortName": "Boxtel",
 	"rdtURL": "boxtel",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.58433",
-	"geoLong": "5.31912"
+	"latitude": "51.58433",
+	"longitude": "5.31912"
 }, {
 	"code": "bv",
 	"uic": "8400113",
@@ -666,8 +666,8 @@
 	"shortName": "Beverwijk",
 	"rdtURL": "beverwijk",
 	"type": "intercitystation",
-	"geoLat": "52.478333",
-	"geoLong": "4.6566668"
+	"latitude": "52.478333",
+	"longitude": "4.6566668"
 }, {
 	"code": "bzl",
 	"uic": "8400354",
@@ -676,8 +676,8 @@
 	"shortName": "Kapelle-B",
 	"rdtURL": "kapelle-biezelinge",
 	"type": "stoptreinstation",
-	"geoLat": "51.480835",
-	"geoLong": "3.9561112"
+	"latitude": "51.480835",
+	"longitude": "3.9561112"
 }, {
 	"code": "cas",
 	"uic": "8400151",
@@ -686,8 +686,8 @@
 	"shortName": "Castricum",
 	"rdtURL": "castricum",
 	"type": "intercitystation",
-	"geoLat": "52.545834",
-	"geoLong": "4.6586113"
+	"latitude": "52.545834",
+	"longitude": "4.6586113"
 }, {
 	"code": "ck",
 	"uic": "8400155",
@@ -696,8 +696,8 @@
 	"shortName": "Cuijk",
 	"rdtURL": "cuijk",
 	"type": "stoptreinstation",
-	"geoLat": "51.72668",
-	"geoLong": "5.874295"
+	"latitude": "51.72668",
+	"longitude": "5.874295"
 }, {
 	"code": "cl",
 	"uic": "8400154",
@@ -706,8 +706,8 @@
 	"shortName": "Culemborg",
 	"rdtURL": "culemborg",
 	"type": "stoptreinstation",
-	"geoLat": "51.946667",
-	"geoLong": "5.2269444"
+	"latitude": "51.946667",
+	"longitude": "5.2269444"
 }, {
 	"code": "co",
 	"uic": "8400153",
@@ -716,8 +716,8 @@
 	"shortName": "Coevorden",
 	"rdtURL": "coevorden",
 	"type": "knooppuntsneltreinstation",
-	"geoLat": "52.663612",
-	"geoLong": "6.7355556"
+	"latitude": "52.663612",
+	"longitude": "6.7355556"
 }, {
 	"code": "cps",
 	"uic": "8400147",
@@ -726,8 +726,8 @@
 	"shortName": "Schollevr",
 	"rdtURL": "capelle-schollevaar",
 	"type": "stoptreinstation",
-	"geoLat": "51.954166",
-	"geoLong": "4.5841665"
+	"latitude": "51.954166",
+	"longitude": "4.5841665"
 }, {
 	"code": "cvm",
 	"uic": "8400152",
@@ -736,8 +736,8 @@
 	"shortName": "Chevremont",
 	"rdtURL": "chevremont",
 	"type": "stoptreinstation",
-	"geoLat": "50.87611",
-	"geoLong": "6.0597224"
+	"latitude": "50.87611",
+	"longitude": "6.0597224"
 }, {
 	"code": "da",
 	"uic": "8400164",
@@ -746,8 +746,8 @@
 	"shortName": "Daarlervn",
 	"rdtURL": "daarlerveen",
 	"type": "stoptreinstation",
-	"geoLat": "52.44077",
-	"geoLong": "6.5759945"
+	"latitude": "52.44077",
+	"longitude": "6.5759945"
 }, {
 	"code": "db",
 	"uic": "8400182",
@@ -756,8 +756,8 @@
 	"shortName": "Driebergen",
 	"rdtURL": "driebergen-zeist",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.065277",
-	"geoLong": "5.258611"
+	"latitude": "52.065277",
+	"longitude": "5.258611"
 }, {
 	"code": "ddn",
 	"uic": "8400169",
@@ -766,8 +766,8 @@
 	"shortName": "Delden",
 	"rdtURL": "delden",
 	"type": "stoptreinstation",
-	"geoLat": "52.26",
-	"geoLong": "6.716111"
+	"latitude": "52.26",
+	"longitude": "6.716111"
 }, {
 	"code": "ddr",
 	"uic": "8400180",
@@ -776,8 +776,8 @@
 	"shortName": "Dordrecht",
 	"rdtURL": "dordrecht",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.80722",
-	"geoLong": "4.6683335"
+	"latitude": "51.80722",
+	"longitude": "4.6683335"
 }, {
 	"code": "ddrs",
 	"uic": "8400186",
@@ -786,8 +786,8 @@
 	"shortName": "Stadspldrs",
 	"rdtURL": "dordrecht-stadspolders",
 	"type": "stoptreinstation",
-	"geoLat": "51.801945",
-	"geoLong": "4.7166667"
+	"latitude": "51.801945",
+	"longitude": "4.7166667"
 }, {
 	"code": "ddzd",
 	"uic": "8400181",
@@ -796,8 +796,8 @@
 	"shortName": "Dordrcht Z",
 	"rdtURL": "dordrecht-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "51.79",
-	"geoLong": "4.671389"
+	"latitude": "51.79",
+	"longitude": "4.671389"
 }, {
 	"code": "dei",
 	"uic": "8400168",
@@ -806,8 +806,8 @@
 	"shortName": "Deinum",
 	"rdtURL": "deinum",
 	"type": "stoptreinstation",
-	"geoLat": "53.188812",
-	"geoLong": "5.728157"
+	"latitude": "53.188812",
+	"longitude": "5.728157"
 }, {
 	"code": "did",
 	"uic": "8400174",
@@ -816,8 +816,8 @@
 	"shortName": "Didam",
 	"rdtURL": "didam",
 	"type": "stoptreinstation",
-	"geoLat": "51.933502",
-	"geoLong": "6.1324105"
+	"latitude": "51.933502",
+	"longitude": "6.1324105"
 }, {
 	"code": "dl",
 	"uic": "8400167",
@@ -826,8 +826,8 @@
 	"shortName": "Dalfsen",
 	"rdtURL": "dalfsen",
 	"type": "sneltreinstation",
-	"geoLat": "52.498333",
-	"geoLong": "6.258611"
+	"latitude": "52.498333",
+	"longitude": "6.258611"
 }, {
 	"code": "dld",
 	"uic": "8400179",
@@ -836,8 +836,8 @@
 	"shortName": "Den Dolder",
 	"rdtURL": "den-dolder",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.140278",
-	"geoLong": "5.242778"
+	"latitude": "52.140278",
+	"longitude": "5.242778"
 }, {
 	"code": "dln",
 	"uic": "8400161",
@@ -846,8 +846,8 @@
 	"shortName": "Dalen",
 	"rdtURL": "dalen",
 	"type": "stoptreinstation",
-	"geoLat": "52.694168",
-	"geoLong": "6.7580557"
+	"latitude": "52.694168",
+	"longitude": "6.7580557"
 }, {
 	"code": "dmn",
 	"uic": "8400165",
@@ -856,8 +856,8 @@
 	"shortName": "Diemen",
 	"rdtURL": "diemen",
 	"type": "stoptreinstation",
-	"geoLat": "52.345833",
-	"geoLong": "4.9655557"
+	"latitude": "52.345833",
+	"longitude": "4.9655557"
 }, {
 	"code": "dmnz",
 	"uic": "8400163",
@@ -866,8 +866,8 @@
 	"shortName": "Diemen Z",
 	"rdtURL": "diemen-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.330276",
-	"geoLong": "4.9558334"
+	"latitude": "52.330276",
+	"longitude": "4.9558334"
 }, {
 	"code": "dn",
 	"uic": "8400172",
@@ -876,8 +876,8 @@
 	"shortName": "Deurne",
 	"rdtURL": "deurne",
 	"type": "stoptreinstation",
-	"geoLat": "51.455833",
-	"geoLong": "5.788889"
+	"latitude": "51.455833",
+	"longitude": "5.788889"
 }, {
 	"code": "dr",
 	"uic": "8400176",
@@ -886,8 +886,8 @@
 	"shortName": "Dieren",
 	"rdtURL": "dieren",
 	"type": "intercitystation",
-	"geoLat": "52045",
-	"geoLong": "6.1030555"
+	"latitude": "52045",
+	"longitude": "6.1030555"
 }, {
 	"code": "drh",
 	"uic": "8400183",
@@ -896,8 +896,8 @@
 	"shortName": "Driehuis",
 	"rdtURL": "driehuis",
 	"type": "stoptreinstation",
-	"geoLat": "52.4425",
-	"geoLong": "4.6380553"
+	"latitude": "52.4425",
+	"longitude": "4.6380553"
 }, {
 	"code": "drp",
 	"uic": "8400192",
@@ -906,8 +906,8 @@
 	"shortName": "Dronrijp",
 	"rdtURL": "dronrijp",
 	"type": "stoptreinstation",
-	"geoLat": "53.177807",
-	"geoLong": "5.6347413"
+	"latitude": "53.177807",
+	"longitude": "5.6347413"
 }, {
 	"code": "dt",
 	"uic": "8400170",
@@ -916,8 +916,8 @@
 	"shortName": "Delft",
 	"rdtURL": "delft",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.006668",
-	"geoLong": "4.356389"
+	"latitude": "52.006668",
+	"longitude": "4.356389"
 }, {
 	"code": "dtc",
 	"uic": "8400177",
@@ -926,8 +926,8 @@
 	"shortName": "Doetinchem",
 	"rdtURL": "doetinchem",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.958595",
-	"geoLong": "6.2962146"
+	"latitude": "51.958595",
+	"longitude": "6.2962146"
 }, {
 	"code": "dtch",
 	"uic": "8400184",
@@ -936,8 +936,8 @@
 	"shortName": "De Huet",
 	"rdtURL": "doetinchem-de-huet",
 	"type": "stoptreinstation",
-	"geoLat": "51.95914",
-	"geoLong": "6.259852"
+	"latitude": "51.95914",
+	"longitude": "6.259852"
 }, {
 	"code": "dtz",
 	"uic": "8400166",
@@ -946,8 +946,8 @@
 	"shortName": "Delft Z",
 	"rdtURL": "delft-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "51.990833",
-	"geoLong": "4.3647223"
+	"latitude": "51.990833",
+	"longitude": "4.3647223"
 }, {
 	"code": "dv",
 	"uic": "8400173",
@@ -956,8 +956,8 @@
 	"shortName": "Deventer",
 	"rdtURL": "deventer",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.2575",
-	"geoLong": "6.1605554"
+	"latitude": "52.2575",
+	"longitude": "6.1605554"
 }, {
 	"code": "dvc",
 	"uic": "8400185",
@@ -966,8 +966,8 @@
 	"shortName": "Colmschate",
 	"rdtURL": "deventer-colmschate",
 	"type": "stoptreinstation",
-	"geoLat": "52.25028",
-	"geoLong": "6.2144446"
+	"latitude": "52.25028",
+	"longitude": "6.2144446"
 }, {
 	"code": "dvd",
 	"uic": "8400194",
@@ -976,8 +976,8 @@
 	"shortName": "Duivendt",
 	"rdtURL": "duivendrecht",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.323334",
-	"geoLong": "4.936389"
+	"latitude": "52.323334",
+	"longitude": "4.936389"
 }, {
 	"code": "dvn",
 	"uic": "8400193",
@@ -986,8 +986,8 @@
 	"shortName": "Duiven",
 	"rdtURL": "duiven",
 	"type": "stoptreinstation",
-	"geoLat": "51.943333",
-	"geoLong": "6.0147223"
+	"latitude": "51.943333",
+	"longitude": "6.0147223"
 }, {
 	"code": "dvnk",
 	"uic": "8400188",
@@ -996,8 +996,8 @@
 	"shortName": "De Vink",
 	"rdtURL": "de-vink",
 	"type": "stoptreinstation",
-	"geoLat": "52.14722",
-	"geoLong": "4.456389"
+	"latitude": "52.14722",
+	"longitude": "4.456389"
 }, {
 	"code": "dz",
 	"uic": "8400171",
@@ -1006,8 +1006,8 @@
 	"shortName": "Delfzijl",
 	"rdtURL": "delfzijl",
 	"type": "stoptreinstation",
-	"geoLat": "53.333664",
-	"geoLong": "6.92408"
+	"latitude": "53.333664",
+	"longitude": "6.92408"
 }, {
 	"code": "dzw",
 	"uic": "8400175",
@@ -1016,8 +1016,8 @@
 	"shortName": "Delfzijl W",
 	"rdtURL": "delfzijl-west",
 	"type": "stoptreinstation",
-	"geoLat": "53.332085",
-	"geoLong": "6.906909"
+	"latitude": "53.332085",
+	"longitude": "6.906909"
 }, {
 	"code": "ec",
 	"uic": "8400195",
@@ -1026,8 +1026,8 @@
 	"shortName": "Echt",
 	"rdtURL": "echt",
 	"type": "stoptreinstation",
-	"geoLat": "51.100555",
-	"geoLong": "5.878889"
+	"latitude": "51.100555",
+	"longitude": "5.878889"
 }, {
 	"code": "ed",
 	"uic": "8400200",
@@ -1036,8 +1036,8 @@
 	"shortName": "Ede-Wag",
 	"rdtURL": "ede-wageningen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.02778",
-	"geoLong": "5.6730556"
+	"latitude": "52.02778",
+	"longitude": "5.6730556"
 }, {
 	"code": "edc",
 	"uic": "8400201",
@@ -1046,8 +1046,8 @@
 	"shortName": "Ede C",
 	"rdtURL": "ede-centrum",
 	"type": "stoptreinstation",
-	"geoLat": "52.04361",
-	"geoLong": "5.6683335"
+	"latitude": "52.04361",
+	"longitude": "5.6683335"
 }, {
 	"code": "edn",
 	"uic": "8400219",
@@ -1056,8 +1056,8 @@
 	"shortName": "Eijsden",
 	"rdtURL": "eijsden",
 	"type": "stoptreinstation",
-	"geoLat": "50.771946",
-	"geoLong": "5.71"
+	"latitude": "50.771946",
+	"longitude": "5.71"
 }, {
 	"code": "egh",
 	"uic": "8400338",
@@ -1066,8 +1066,8 @@
 	"shortName": "Eygelshov",
 	"rdtURL": "eygelshoven",
 	"type": "stoptreinstation",
-	"geoLat": "50.890556",
-	"geoLong": "6045"
+	"latitude": "50.890556",
+	"longitude": "6045"
 }, {
 	"code": "eghm",
 	"uic": "8400234",
@@ -1076,8 +1076,8 @@
 	"shortName": "Eygelsh M",
 	"rdtURL": "eygelshoven-markt",
 	"type": "stoptreinstation",
-	"geoLat": "50.89605",
-	"geoLong": "6.0602474"
+	"latitude": "50.89605",
+	"longitude": "6.0602474"
 }, {
 	"code": "ehb",
 	"uic": "8400196",
@@ -1086,8 +1086,8 @@
 	"shortName": "Beukenlaan",
 	"rdtURL": "eindhoven-beukenlaan",
 	"type": "stoptreinstation",
-	"geoLat": "51.45111",
-	"geoLong": "5.4558334"
+	"latitude": "51.45111",
+	"longitude": "5.4558334"
 }, {
 	"code": "ehv",
 	"uic": "8400206",
@@ -1096,8 +1096,8 @@
 	"shortName": "Eindhoven",
 	"rdtURL": "eindhoven",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.443333",
-	"geoLong": "5.481389"
+	"latitude": "51.443333",
+	"longitude": "5.481389"
 }, {
 	"code": "ekz",
 	"uic": "8400210",
@@ -1106,8 +1106,8 @@
 	"shortName": "Enkhuizen",
 	"rdtURL": "enkhuizen",
 	"type": "stoptreinstation",
-	"geoLat": "52.699165",
-	"geoLong": "5.286389"
+	"latitude": "52.699165",
+	"longitude": "5.286389"
 }, {
 	"code": "eml",
 	"uic": "8400216",
@@ -1116,8 +1116,8 @@
 	"shortName": "Ermelo",
 	"rdtURL": "ermelo",
 	"type": "stoptreinstation",
-	"geoLat": "52.301666",
-	"geoLong": "5.6147223"
+	"latitude": "52.301666",
+	"longitude": "5.6147223"
 }, {
 	"code": "emn",
 	"uic": "8400208",
@@ -1126,8 +1126,8 @@
 	"shortName": "Emmen",
 	"rdtURL": "emmen",
 	"type": "sneltreinstation",
-	"geoLat": "52.79",
-	"geoLong": "6.8994446"
+	"latitude": "52.79",
+	"longitude": "6.8994446"
 }, {
 	"code": "emnz",
 	"uic": "8400407",
@@ -1136,8 +1136,8 @@
 	"shortName": "Emmen Z",
 	"rdtURL": "emmen-zuid",
 	"type": "sneltreinstation",
-	"geoLat": "52.748867",
-	"geoLong": "6.8747807"
+	"latitude": "52.748867",
+	"longitude": "6.8747807"
 }, {
 	"code": "es",
 	"uic": "8400212",
@@ -1146,8 +1146,8 @@
 	"shortName": "Enschede",
 	"rdtURL": "enschede",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.2225",
-	"geoLong": "6.89"
+	"latitude": "52.2225",
+	"longitude": "6.89"
 }, {
 	"code": "esd",
 	"uic": "8400221",
@@ -1156,8 +1156,8 @@
 	"shortName": "Drienerlo",
 	"rdtURL": "enschede-drienerlo",
 	"type": "stoptreinstation",
-	"geoLat": "52.2375",
-	"geoLong": "6.838889"
+	"latitude": "52.2375",
+	"longitude": "6.838889"
 }, {
 	"code": "ese",
 	"uic": "8400217",
@@ -1166,8 +1166,8 @@
 	"shortName": "Eschmarke",
 	"rdtURL": "enschede-de-eschmarke",
 	"type": "stoptreinstation",
-	"geoLat": "52.22139",
-	"geoLong": "6.9511113"
+	"latitude": "52.22139",
+	"longitude": "6.9511113"
 }, {
 	"code": "est",
 	"uic": "8400207",
@@ -1176,8 +1176,8 @@
 	"shortName": "Elst",
 	"rdtURL": "elst",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.916943",
-	"geoLong": "5855"
+	"latitude": "51.916943",
+	"longitude": "5855"
 }, {
 	"code": "etn",
 	"uic": "8400218",
@@ -1186,8 +1186,8 @@
 	"shortName": "Etten-Leur",
 	"rdtURL": "etten-leur",
 	"type": "intercitystation",
-	"geoLat": "51575",
-	"geoLong": "4.6358333"
+	"latitude": "51575",
+	"longitude": "4.6358333"
 }, {
 	"code": "fn",
 	"uic": "8400232",
@@ -1196,8 +1196,8 @@
 	"shortName": "Franeker",
 	"rdtURL": "franeker",
 	"type": "stoptreinstation",
-	"geoLat": "53.18245",
-	"geoLong": "5.5483093"
+	"latitude": "53.18245",
+	"longitude": "5.5483093"
 }, {
 	"code": "gbg",
 	"uic": "8400259",
@@ -1206,8 +1206,8 @@
 	"shortName": "Gramsbergn",
 	"rdtURL": "gramsbergen",
 	"type": "stoptreinstation",
-	"geoLat": "52.609165",
-	"geoLong": "6.675833"
+	"latitude": "52.609165",
+	"longitude": "6.675833"
 }, {
 	"code": "gbr",
 	"uic": "8400262",
@@ -1216,8 +1216,8 @@
 	"shortName": "Glanerbrug",
 	"rdtURL": "glanerbrug",
 	"type": "stoptreinstation",
-	"geoLat": "52.218613",
-	"geoLong": "6.9744444"
+	"latitude": "52.218613",
+	"longitude": "6.9744444"
 }, {
 	"code": "gd",
 	"uic": "8400258",
@@ -1226,8 +1226,8 @@
 	"shortName": "Gouda",
 	"rdtURL": "gouda",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.0175",
-	"geoLong": "4.7044444"
+	"latitude": "52.0175",
+	"longitude": "4.7044444"
 }, {
 	"code": "gdg",
 	"uic": "8400257",
@@ -1236,8 +1236,8 @@
 	"shortName": "Goverwelle",
 	"rdtURL": "gouda-goverwelle",
 	"type": "stoptreinstation",
-	"geoLat": "52015",
-	"geoLong": "4.7408333"
+	"latitude": "52015",
+	"longitude": "4.7408333"
 }, {
 	"code": "gdk",
 	"uic": "8400239",
@@ -1246,8 +1246,8 @@
 	"shortName": "Geerdijk",
 	"rdtURL": "geerdijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.47625",
-	"geoLong": "6.56674"
+	"latitude": "52.47625",
+	"longitude": "6.56674"
 }, {
 	"code": "gdm",
 	"uic": "8400244",
@@ -1256,8 +1256,8 @@
 	"shortName": "G'malsen",
 	"rdtURL": "geldermalsen",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.88278",
-	"geoLong": "5.271111"
+	"latitude": "51.88278",
+	"longitude": "5.271111"
 }, {
 	"code": "gdr",
 	"uic": "8400241",
@@ -1266,8 +1266,8 @@
 	"shortName": "Gaanderen",
 	"rdtURL": "gaanderen",
 	"type": "stoptreinstation",
-	"geoLat": "51.93074",
-	"geoLong": "6.3486"
+	"latitude": "51.93074",
+	"longitude": "6.3486"
 }, {
 	"code": "gerp",
 	"uic": "8400238",
@@ -1276,8 +1276,8 @@
 	"shortName": "Europapark",
 	"rdtURL": "groningen-europapark",
 	"type": "stoptreinstation",
-	"geoLat": "53.20489",
-	"geoLong": "6.58519"
+	"latitude": "53.20489",
+	"longitude": "6.58519"
 }, {
 	"code": "gk",
 	"uic": "8400267",
@@ -1286,8 +1286,8 @@
 	"shortName": "Grijpskerk",
 	"rdtURL": "grijpskerk",
 	"type": "stoptreinstation",
-	"geoLat": "53.25574",
-	"geoLong": "6.3097787"
+	"latitude": "53.25574",
+	"longitude": "6.3097787"
 }, {
 	"code": "gln",
 	"uic": "8400246",
@@ -1296,8 +1296,8 @@
 	"shortName": "Geleen O",
 	"rdtURL": "geleen-oost",
 	"type": "stoptreinstation",
-	"geoLat": "50.966946",
-	"geoLong": "5.8430557"
+	"latitude": "50.966946",
+	"longitude": "5.8430557"
 }, {
 	"code": "gn",
 	"uic": "8400263",
@@ -1306,8 +1306,8 @@
 	"shortName": "Groningen",
 	"rdtURL": "groningen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "53.210556",
-	"geoLong": "6.564722"
+	"latitude": "53.210556",
+	"longitude": "6.564722"
 }, {
 	"code": "gnd",
 	"uic": "8400295",
@@ -1316,8 +1316,8 @@
 	"shortName": "Hardinxvld",
 	"rdtURL": "hardinxveld-giessendam",
 	"type": "stoptreinstation",
-	"geoLat": "51.830555",
-	"geoLong": "4.8358335"
+	"latitude": "51.830555",
+	"longitude": "4.8358335"
 }, {
 	"code": "gnn",
 	"uic": "8400264",
@@ -1326,8 +1326,8 @@
 	"shortName": "Groning N",
 	"rdtURL": "groningen-noord",
 	"type": "stoptreinstation",
-	"geoLat": "53.23015",
-	"geoLong": "6.5563173"
+	"latitude": "53.23015",
+	"longitude": "6.5563173"
 }, {
 	"code": "go",
 	"uic": "8400254",
@@ -1336,8 +1336,8 @@
 	"shortName": "Goor",
 	"rdtURL": "goor",
 	"type": "stoptreinstation",
-	"geoLat": "52.230278",
-	"geoLong": "6.5844445"
+	"latitude": "52.230278",
+	"longitude": "6.5844445"
 }, {
 	"code": "gp",
 	"uic": "8400245",
@@ -1346,8 +1346,8 @@
 	"shortName": "Geldrop",
 	"rdtURL": "geldrop",
 	"type": "stoptreinstation",
-	"geoLat": "51.419724",
-	"geoLong": "5.5505557"
+	"latitude": "51.419724",
+	"longitude": "5.5505557"
 }, {
 	"code": "gr",
 	"uic": "8400256",
@@ -1356,8 +1356,8 @@
 	"shortName": "Gorinchem",
 	"rdtURL": "gorinchem",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.83389",
-	"geoLong": "4.9683332"
+	"latitude": "51.83389",
+	"longitude": "4.9683332"
 }, {
 	"code": "gs",
 	"uic": "8400253",
@@ -1366,8 +1366,8 @@
 	"shortName": "Goes",
 	"rdtURL": "goes",
 	"type": "stoptreinstation",
-	"geoLat": "51.498055",
-	"geoLong": "3.8905556"
+	"latitude": "51.498055",
+	"longitude": "3.8905556"
 }, {
 	"code": "gv",
 	"uic": "8400280",
@@ -1376,8 +1376,8 @@
 	"shortName": "Dn Haag HS",
 	"rdtURL": "den-haag-hs",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.06972",
-	"geoLong": "4.3225"
+	"latitude": "52.06972",
+	"longitude": "4.3225"
 }, {
 	"code": "gvc",
 	"uic": "8400282",
@@ -1386,8 +1386,8 @@
 	"shortName": "Den Haag C",
 	"rdtURL": "den-haag-centraal",
 	"type": "megastation",
-	"geoLat": "52.080276",
-	"geoLong": "4325"
+	"latitude": "52.080276",
+	"longitude": "4325"
 }, {
 	"code": "gvm",
 	"uic": "8400278",
@@ -1396,8 +1396,8 @@
 	"shortName": "Mariahoeve",
 	"rdtURL": "den-haag-mariahoeve",
 	"type": "stoptreinstation",
-	"geoLat": "52.090557",
-	"geoLong": "4.3694444"
+	"latitude": "52.090557",
+	"longitude": "4.3694444"
 }, {
 	"code": "gvmw",
 	"uic": "8400279",
@@ -1406,8 +1406,8 @@
 	"shortName": "Moerwijk",
 	"rdtURL": "den-haag-moerwijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.05389",
-	"geoLong": "4.308611"
+	"latitude": "52.05389",
+	"longitude": "4.308611"
 }, {
 	"code": "gw",
 	"uic": "8400266",
@@ -1416,8 +1416,8 @@
 	"shortName": "Grou-Jirns",
 	"rdtURL": "grou-jirnsum",
 	"type": "stoptreinstation",
-	"geoLat": "53.08889",
-	"geoLong": "5.8225"
+	"latitude": "53.08889",
+	"longitude": "5.8225"
 }, {
 	"code": "gz",
 	"uic": "8400251",
@@ -1426,8 +1426,8 @@
 	"shortName": "Gilze-Rij",
 	"rdtURL": "gilze-rijen",
 	"type": "stoptreinstation",
-	"geoLat": "51.58361",
-	"geoLong": "4.926111"
+	"latitude": "51.58361",
+	"longitude": "4.926111"
 }, {
 	"code": "had",
 	"uic": "8400302",
@@ -1436,8 +1436,8 @@
 	"shortName": "Heemstede",
 	"rdtURL": "heemstede-aerdenhout",
 	"type": "intercitystation",
-	"geoLat": "52.359165",
-	"geoLong": "4.6066666"
+	"latitude": "52.359165",
+	"longitude": "4.6066666"
 }, {
 	"code": "hb",
 	"uic": "8400326",
@@ -1446,8 +1446,8 @@
 	"shortName": "Hoensbroek",
 	"rdtURL": "hoensbroek",
 	"type": "stoptreinstation",
-	"geoLat": "50.905556",
-	"geoLong": "5.9305553"
+	"latitude": "50.905556",
+	"longitude": "5.9305553"
 }, {
 	"code": "hd",
 	"uic": "8400294",
@@ -1456,8 +1456,8 @@
 	"shortName": "Harderwijk",
 	"rdtURL": "harderwijk",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.3375",
-	"geoLong": "5.6197224"
+	"latitude": "52.3375",
+	"longitude": "5.6197224"
 }, {
 	"code": "hdb",
 	"uic": "8400293",
@@ -1466,8 +1466,8 @@
 	"shortName": "Hardenberg",
 	"rdtURL": "hardenberg",
 	"type": "sneltreinstation",
-	"geoLat": "52.572777",
-	"geoLong": "6.628611"
+	"latitude": "52.572777",
+	"longitude": "6.628611"
 }, {
 	"code": "hde",
 	"uic": "8400388",
@@ -1476,8 +1476,8 @@
 	"shortName": "'t Harde",
 	"rdtURL": "t-harde",
 	"type": "stoptreinstation",
-	"geoLat": "52.40917",
-	"geoLong": "5.893611"
+	"latitude": "52.40917",
+	"longitude": "5.893611"
 }, {
 	"code": "hdg",
 	"uic": "8400292",
@@ -1486,8 +1486,8 @@
 	"shortName": "Hurdegaryp",
 	"rdtURL": "hurdegaryp",
 	"type": "stoptreinstation",
-	"geoLat": "53.218777",
-	"geoLong": "5.934543"
+	"latitude": "53.218777",
+	"longitude": "5.934543"
 }, {
 	"code": "hdr",
 	"uic": "8400311",
@@ -1496,8 +1496,8 @@
 	"shortName": "Den Helder",
 	"rdtURL": "den-helder",
 	"type": "intercitystation",
-	"geoLat": "52.955276",
-	"geoLong": "4.7611113"
+	"latitude": "52.955276",
+	"longitude": "4.7611113"
 }, {
 	"code": "hdrz",
 	"uic": "8400303",
@@ -1506,8 +1506,8 @@
 	"shortName": "Dn Heldr Z",
 	"rdtURL": "den-helder-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.9325",
-	"geoLong": "4.764167"
+	"latitude": "52.9325",
+	"longitude": "4.764167"
 }, {
 	"code": "hfd",
 	"uic": "8400332",
@@ -1516,8 +1516,8 @@
 	"shortName": "Hoofddorp",
 	"rdtURL": "hoofddorp",
 	"type": "stoptreinstation",
-	"geoLat": "52.293335",
-	"geoLong": "4.7005553"
+	"latitude": "52.293335",
+	"longitude": "4.7005553"
 }, {
 	"code": "hgl",
 	"uic": "8400316",
@@ -1526,8 +1526,8 @@
 	"shortName": "Hengelo",
 	"rdtURL": "hengelo",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.261665",
-	"geoLong": "6.793889"
+	"latitude": "52.261665",
+	"longitude": "6.793889"
 }, {
 	"code": "hglo",
 	"uic": "8400312",
@@ -1536,8 +1536,8 @@
 	"shortName": "Hengelo O",
 	"rdtURL": "hengelo-oost",
 	"type": "stoptreinstation",
-	"geoLat": "52.26889",
-	"geoLong": "6.8194447"
+	"latitude": "52.26889",
+	"longitude": "6.8194447"
 }, {
 	"code": "hgv",
 	"uic": "8400330",
@@ -1546,8 +1546,8 @@
 	"shortName": "Hoogeveen",
 	"rdtURL": "hoogeveen",
 	"type": "stoptreinstation",
-	"geoLat": "52.73389",
-	"geoLong": "6.473611"
+	"latitude": "52.73389",
+	"longitude": "6.473611"
 }, {
 	"code": "hgz",
 	"uic": "8400331",
@@ -1556,8 +1556,8 @@
 	"shortName": "Hoogezand",
 	"rdtURL": "hoogezand-sappemeer",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.159817",
-	"geoLong": "6.770754"
+	"latitude": "53.159817",
+	"longitude": "6.770754"
 }, {
 	"code": "hil",
 	"uic": "8400329",
@@ -1566,8 +1566,8 @@
 	"shortName": "Hillegom",
 	"rdtURL": "hillegom",
 	"type": "stoptreinstation",
-	"geoLat": "52.3025",
-	"geoLong": "4.5655556"
+	"latitude": "52.3025",
+	"longitude": "4.5655556"
 }, {
 	"code": "hk",
 	"uic": "8400317",
@@ -1576,8 +1576,8 @@
 	"shortName": "Heemskerk",
 	"rdtURL": "heemskerk",
 	"type": "stoptreinstation",
-	"geoLat": "52.495277",
-	"geoLong": "4.6869445"
+	"latitude": "52.495277",
+	"longitude": "4.6869445"
 }, {
 	"code": "hks",
 	"uic": "8400334",
@@ -1586,8 +1586,8 @@
 	"shortName": "Hoogkrspl",
 	"rdtURL": "hoogkarspel",
 	"type": "stoptreinstation",
-	"geoLat": "52.690556",
-	"geoLong": "5.183889"
+	"latitude": "52.690556",
+	"longitude": "5.183889"
 }, {
 	"code": "hld",
 	"uic": "8400325",
@@ -1596,8 +1596,8 @@
 	"shortName": "HvH Haven",
 	"rdtURL": "hoek-van-holland-haven",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.975277",
-	"geoLong": "4.128889"
+	"latitude": "51.975277",
+	"longitude": "4.128889"
 }, {
 	"code": "hlds",
 	"uic": "8400342",
@@ -1606,8 +1606,8 @@
 	"shortName": "HvH Strand",
 	"rdtURL": "hoek-van-holland-strand",
 	"type": "stoptreinstation",
-	"geoLat": "51.981667",
-	"geoLong": "4.1197224"
+	"latitude": "51.981667",
+	"longitude": "4.1197224"
 }, {
 	"code": "hlg",
 	"uic": "8400296",
@@ -1616,8 +1616,8 @@
 	"shortName": "Harlingen",
 	"rdtURL": "harlingen",
 	"type": "stoptreinstation",
-	"geoLat": "53.17042",
-	"geoLong": "5.4251933"
+	"latitude": "53.17042",
+	"longitude": "5.4251933"
 }, {
 	"code": "hlgh",
 	"uic": "8400298",
@@ -1626,8 +1626,8 @@
 	"shortName": "Harl Haven",
 	"rdtURL": "harlingen-haven",
 	"type": "stoptreinstation",
-	"geoLat": "53.174915",
-	"geoLong": "5.4112887"
+	"latitude": "53.174915",
+	"longitude": "5.4112887"
 }, {
 	"code": "hlm",
 	"uic": "8400285",
@@ -1636,8 +1636,8 @@
 	"shortName": "Haarlem",
 	"rdtURL": "haarlem",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.38778",
-	"geoLong": "4.6383333"
+	"latitude": "52.38778",
+	"longitude": "4.6383333"
 }, {
 	"code": "hlms",
 	"uic": "8400270",
@@ -1646,8 +1646,8 @@
 	"shortName": "Spaarnwde",
 	"rdtURL": "haarlem-spaarnwoude",
 	"type": "stoptreinstation",
-	"geoLat": "52.38278",
-	"geoLong": "4.6730556"
+	"latitude": "52.38278",
+	"longitude": "4.6730556"
 }, {
 	"code": "hlo",
 	"uic": "8400309",
@@ -1656,8 +1656,8 @@
 	"shortName": "Heiloo",
 	"rdtURL": "heiloo",
 	"type": "stoptreinstation",
-	"geoLat": "52.599445",
-	"geoLong": "4.7005553"
+	"latitude": "52.599445",
+	"longitude": "4.7005553"
 }, {
 	"code": "hm",
 	"uic": "8400313",
@@ -1666,8 +1666,8 @@
 	"shortName": "Helmond",
 	"rdtURL": "helmond",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.475555",
-	"geoLong": "5.6619444"
+	"latitude": "51.475555",
+	"longitude": "5.6619444"
 }, {
 	"code": "hmbh",
 	"uic": "8400299",
@@ -1676,8 +1676,8 @@
 	"shortName": "Brouwhuis",
 	"rdtURL": "helmond-brouwhuis",
 	"type": "stoptreinstation",
-	"geoLat": "51.470276",
-	"geoLong": "5.7033334"
+	"latitude": "51.470276",
+	"longitude": "5.7033334"
 }, {
 	"code": "hmbv",
 	"uic": "8400242",
@@ -1686,8 +1686,8 @@
 	"shortName": "Brandevrt",
 	"rdtURL": "helmond-brandevoort",
 	"type": "stoptreinstation",
-	"geoLat": "51.462223",
-	"geoLong": "5.607222"
+	"latitude": "51.462223",
+	"longitude": "5.607222"
 }, {
 	"code": "hmh",
 	"uic": "8400300",
@@ -1696,8 +1696,8 @@
 	"shortName": "'t Hout",
 	"rdtURL": "helmond-t-hout",
 	"type": "stoptreinstation",
-	"geoLat": "51.468056",
-	"geoLong": "5.6313887"
+	"latitude": "51.468056",
+	"longitude": "5.6313887"
 }, {
 	"code": "hmn",
 	"uic": "8400315",
@@ -1706,8 +1706,8 @@
 	"shortName": "Hemmen-D",
 	"rdtURL": "hemmen-dodewaard",
 	"type": "stoptreinstation",
-	"geoLat": "51.922215",
-	"geoLong": "5.6737256"
+	"latitude": "51.922215",
+	"longitude": "5.6737256"
 }, {
 	"code": "hn",
 	"uic": "8400337",
@@ -1716,8 +1716,8 @@
 	"shortName": "Hoorn",
 	"rdtURL": "hoorn",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.644722",
-	"geoLong": "5.0555553"
+	"latitude": "52.644722",
+	"longitude": "5.0555553"
 }, {
 	"code": "hnk",
 	"uic": "8400336",
@@ -1726,8 +1726,8 @@
 	"shortName": "Hoorn Kers",
 	"rdtURL": "hoorn-kersenboogerd",
 	"type": "stoptreinstation",
-	"geoLat": "52.65361",
-	"geoLong": "5.0855556"
+	"latitude": "52.65361",
+	"longitude": "5.0855556"
 }, {
 	"code": "hno",
 	"uic": "8400310",
@@ -1736,8 +1736,8 @@
 	"shortName": "Heino",
 	"rdtURL": "heino",
 	"type": "stoptreinstation",
-	"geoLat": "52.427223",
-	"geoLong": "6.2211113"
+	"latitude": "52.427223",
+	"longitude": "6.2211113"
 }, {
 	"code": "hnp",
 	"uic": "8400323",
@@ -1746,8 +1746,8 @@
 	"shortName": "Hindeloopn",
 	"rdtURL": "hindeloopen",
 	"type": "stoptreinstation",
-	"geoLat": "52.94649",
-	"geoLong": "5.423063"
+	"latitude": "52.94649",
+	"longitude": "5.423063"
 }, {
 	"code": "hon",
 	"uic": "8400328",
@@ -1756,8 +1756,8 @@
 	"shortName": "Holten",
 	"rdtURL": "holten",
 	"type": "stoptreinstation",
-	"geoLat": "52.28389",
-	"geoLong": "6.4202776"
+	"latitude": "52.28389",
+	"longitude": "6.4202776"
 }, {
 	"code": "hor",
 	"uic": "8400327",
@@ -1766,8 +1766,8 @@
 	"shortName": "Hol Rading",
 	"rdtURL": "hollandsche-rading",
 	"type": "stoptreinstation",
-	"geoLat": "52.177776",
-	"geoLong": "5.179167"
+	"latitude": "52.177776",
+	"longitude": "5.179167"
 }, {
 	"code": "hr",
 	"uic": "8400305",
@@ -1776,8 +1776,8 @@
 	"shortName": "Heerenveen",
 	"rdtURL": "heerenveen",
 	"type": "intercitystation",
-	"geoLat": "52.961388",
-	"geoLong": "5.9141665"
+	"latitude": "52.961388",
+	"longitude": "5.9141665"
 }, {
 	"code": "hrl",
 	"uic": "8400307",
@@ -1786,8 +1786,8 @@
 	"shortName": "Heerlen",
 	"rdtURL": "heerlen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "50.890835",
-	"geoLong": "5975"
+	"latitude": "50.890835",
+	"longitude": "5975"
 }, {
 	"code": "hrlw",
 	"uic": "8400404",
@@ -1796,8 +1796,8 @@
 	"shortName": "Heerlen W",
 	"rdtURL": "heerlen-woonboulevard",
 	"type": "stoptreinstation",
-	"geoLat": "50.896667",
-	"geoLong": "5.952222"
+	"latitude": "50.896667",
+	"longitude": "5.952222"
 }, {
 	"code": "hrlk",
 	"uic": "8400409",
@@ -1806,8 +1806,8 @@
 	"shortName": "De Kissel",
 	"rdtURL": "heerlen-de-kissel",
 	"type": "stoptreinstation",
-	"geoLat": "50.890167",
-	"geoLong": "5.9933424"
+	"latitude": "50.890167",
+	"longitude": "5.9933424"
 }, {
 	"code": "hrn",
 	"uic": "8400297",
@@ -1816,8 +1816,8 @@
 	"shortName": "Haren",
 	"rdtURL": "haren",
 	"type": "stoptreinstation",
-	"geoLat": "53.17611",
-	"geoLong": "6.6172223"
+	"latitude": "53.17611",
+	"longitude": "6.6172223"
 }, {
 	"code": "hrt",
 	"uic": "8400339",
@@ -1826,8 +1826,8 @@
 	"shortName": "Horst-Sev",
 	"rdtURL": "horst-sevenum",
 	"type": "stoptreinstation",
-	"geoLat": "51.426388",
-	"geoLong": "6.042222"
+	"latitude": "51.426388",
+	"longitude": "6.042222"
 }, {
 	"code": "ht",
 	"uic": "8400319",
@@ -1836,8 +1836,8 @@
 	"shortName": "H'bosch",
 	"rdtURL": "s-hertogenbosch",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.69048",
-	"geoLong": "5.29362"
+	"latitude": "51.69048",
+	"longitude": "5.29362"
 }, {
 	"code": "htn",
 	"uic": "8400340",
@@ -1846,8 +1846,8 @@
 	"shortName": "Houten",
 	"rdtURL": "houten",
 	"type": "stoptreinstation",
-	"geoLat": "52035",
-	"geoLong": "5.1675"
+	"latitude": "52035",
+	"longitude": "5.1675"
 }, {
 	"code": "htnc",
 	"uic": "8400335",
@@ -1856,8 +1856,8 @@
 	"shortName": "Houten C",
 	"rdtURL": "houten-castellum",
 	"type": "stoptreinstation",
-	"geoLat": "52.01724",
-	"geoLong": "5.179281"
+	"latitude": "52.01724",
+	"longitude": "5.179281"
 }, {
 	"code": "hto",
 	"uic": "8400320",
@@ -1866,8 +1866,8 @@
 	"shortName": "H'bosch O",
 	"rdtURL": "s-hertogenbosch-oost",
 	"type": "stoptreinstation",
-	"geoLat": "51.700554",
-	"geoLong": "5.318333"
+	"latitude": "51.700554",
+	"longitude": "5.318333"
 }, {
 	"code": "hvs",
 	"uic": "8400322",
@@ -1876,8 +1876,8 @@
 	"shortName": "Hilversum",
 	"rdtURL": "hilversum",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.225834",
-	"geoLong": "5.1819444"
+	"latitude": "52.225834",
+	"longitude": "5.1819444"
 }, {
 	"code": "hvsp",
 	"uic": "8400570",
@@ -1886,8 +1886,8 @@
 	"shortName": "Sportpark",
 	"rdtURL": "hilversum-sportpark",
 	"type": "stoptreinstation",
-	"geoLat": "52.21611",
-	"geoLong": "5.187222"
+	"latitude": "52.21611",
+	"longitude": "5.187222"
 }, {
 	"code": "hwd",
 	"uic": "8400306",
@@ -1896,8 +1896,8 @@
 	"shortName": "Heerhugow",
 	"rdtURL": "heerhugowaard",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.669724",
-	"geoLong": "4.8227777"
+	"latitude": "52.669724",
+	"longitude": "4.8227777"
 }, {
 	"code": "hze",
 	"uic": "8400308",
@@ -1906,8 +1906,8 @@
 	"shortName": "Heeze",
 	"rdtURL": "heeze",
 	"type": "stoptreinstation",
-	"geoLat": "51385",
-	"geoLong": "5.5694447"
+	"latitude": "51385",
+	"longitude": "5.5694447"
 }, {
 	"code": "ijt",
 	"uic": "8400722",
@@ -1916,8 +1916,8 @@
 	"shortName": "IJlst",
 	"rdtURL": "ijlst",
 	"type": "stoptreinstation",
-	"geoLat": "53.01466",
-	"geoLong": "5.6160803"
+	"latitude": "53.01466",
+	"longitude": "5.6160803"
 }, {
 	"code": "kbd",
 	"uic": "8400367",
@@ -1926,8 +1926,8 @@
 	"shortName": "Krabbendke",
 	"rdtURL": "krabbendijke",
 	"type": "stoptreinstation",
-	"geoLat": "51.433334",
-	"geoLong": "4.1169443"
+	"latitude": "51.433334",
+	"longitude": "4.1169443"
 }, {
 	"code": "kbk",
 	"uic": "8400361",
@@ -1936,8 +1936,8 @@
 	"shortName": "Klarenbk",
 	"rdtURL": "klarenbeek",
 	"type": "stoptreinstation",
-	"geoLat": "52.178055",
-	"geoLong": "6.083611"
+	"latitude": "52.178055",
+	"longitude": "6.083611"
 }, {
 	"code": "kbw",
 	"uic": "8400363",
@@ -1946,8 +1946,8 @@
 	"shortName": "Koog Bloem",
 	"rdtURL": "koog-bloemwijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.45861",
-	"geoLong": "4.8055553"
+	"latitude": "52.45861",
+	"longitude": "4.8055553"
 }, {
 	"code": "klp",
 	"uic": "8400637",
@@ -1956,8 +1956,8 @@
 	"shortName": "De Klomp",
 	"rdtURL": "veenendaal-de-klomp",
 	"type": "stoptreinstation",
-	"geoLat": "52.045834",
-	"geoLong": "5.573889"
+	"latitude": "52.045834",
+	"longitude": "5.573889"
 }, {
 	"code": "kma",
 	"uic": "8400368",
@@ -1966,8 +1966,8 @@
 	"shortName": "Krommenie",
 	"rdtURL": "krommenie-assendelft",
 	"type": "stoptreinstation",
-	"geoLat": "52.49454",
-	"geoLong": "4.761243"
+	"latitude": "52.49454",
+	"longitude": "4.761243"
 }, {
 	"code": "kmr",
 	"uic": "8400362",
@@ -1976,8 +1976,8 @@
 	"shortName": "Klimmen-R",
 	"rdtURL": "klimmen-ransdaal",
 	"type": "stoptreinstation",
-	"geoLat": "50.86639",
-	"geoLong": "5.8905554"
+	"latitude": "50.86639",
+	"longitude": "5.8905554"
 }, {
 	"code": "kmw",
 	"uic": "8400366",
@@ -1986,8 +1986,8 @@
 	"shortName": "Koudum-M",
 	"rdtURL": "koudum-molkwerum",
 	"type": "stoptreinstation",
-	"geoLat": "52.90282",
-	"geoLong": "5.4106913"
+	"latitude": "52.90282",
+	"longitude": "5.4106913"
 }, {
 	"code": "kpn",
 	"uic": "8400353",
@@ -1996,8 +1996,8 @@
 	"shortName": "Kampen",
 	"rdtURL": "kampen",
 	"type": "stoptreinstation",
-	"geoLat": "52.559723",
-	"geoLong": "5.9216666"
+	"latitude": "52.559723",
+	"longitude": "5.9216666"
 }, {
 	"code": "krd",
 	"uic": "8400355",
@@ -2006,8 +2006,8 @@
 	"shortName": "Kerkrade",
 	"rdtURL": "kerkrade-centrum",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "50.861668",
-	"geoLong": "6.0575"
+	"latitude": "50.861668",
+	"longitude": "6.0575"
 }, {
 	"code": "krg",
 	"uic": "8400370",
@@ -2016,8 +2016,8 @@
 	"shortName": "Kruiningen",
 	"rdtURL": "kruiningen-yerseke",
 	"type": "stoptreinstation",
-	"geoLat": "51465",
-	"geoLong": "4.0372224"
+	"latitude": "51465",
+	"longitude": "4.0372224"
 }, {
 	"code": "ktr",
 	"uic": "8400359",
@@ -2026,8 +2026,8 @@
 	"shortName": "Kesteren",
 	"rdtURL": "kesteren",
 	"type": "stoptreinstation",
-	"geoLat": "51.931385",
-	"geoLong": "5.5833464"
+	"latitude": "51.931385",
+	"longitude": "5.5833464"
 }, {
 	"code": "kw",
 	"uic": "8400369",
@@ -2036,8 +2036,8 @@
 	"shortName": "Kropswolde",
 	"rdtURL": "kropswolde",
 	"type": "stoptreinstation",
-	"geoLat": "53.161736",
-	"geoLong": "6.7220883"
+	"latitude": "53.161736",
+	"longitude": "6.7220883"
 }, {
 	"code": "kzd",
 	"uic": "8400364",
@@ -2046,8 +2046,8 @@
 	"shortName": "Koog Zaand",
 	"rdtURL": "koog-zaandijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.469166",
-	"geoLong": "4805"
+	"latitude": "52.469166",
+	"longitude": "4805"
 }, {
 	"code": "laa",
 	"uic": "8400380",
@@ -2056,8 +2056,8 @@
 	"shortName": "Laan v NOI",
 	"rdtURL": "den-haag-laan-v-noi",
 	"type": "intercitystation",
-	"geoLat": "52.07861",
-	"geoLong": "4.3427777"
+	"latitude": "52.07861",
+	"longitude": "4.3427777"
 }, {
 	"code": "lc",
 	"uic": "8400399",
@@ -2066,8 +2066,8 @@
 	"shortName": "Lochem",
 	"rdtURL": "lochem",
 	"type": "stoptreinstation",
-	"geoLat": "52.166668",
-	"geoLong": "6.4263887"
+	"latitude": "52.166668",
+	"longitude": "6.4263887"
 }, {
 	"code": "ldl",
 	"uic": "8400384",
@@ -2076,8 +2076,8 @@
 	"shortName": "Leiden Lam",
 	"rdtURL": "leiden-lammenschans",
 	"type": "stoptreinstation",
-	"geoLat": "52.146946",
-	"geoLong": "4.4925"
+	"latitude": "52.146946",
+	"longitude": "4.4925"
 }, {
 	"code": "ldm",
 	"uic": "8400386",
@@ -2086,8 +2086,8 @@
 	"shortName": "Leerdam",
 	"rdtURL": "leerdam",
 	"type": "stoptreinstation",
-	"geoLat": "51.894722",
-	"geoLong": "5.0913887"
+	"latitude": "51.894722",
+	"longitude": "5.0913887"
 }, {
 	"code": "ledn",
 	"uic": "8400390",
@@ -2096,8 +2096,8 @@
 	"shortName": "Leiden C",
 	"rdtURL": "leiden-centraal",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.16611",
-	"geoLong": "4.4816666"
+	"latitude": "52.16611",
+	"longitude": "4.4816666"
 }, {
 	"code": "lg",
 	"uic": "8400548",
@@ -2106,8 +2106,8 @@
 	"shortName": "Landgraaf",
 	"rdtURL": "landgraaf",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "50.89639",
-	"geoLong": "6.0191665"
+	"latitude": "50.89639",
+	"longitude": "6.0191665"
 }, {
 	"code": "lls",
 	"uic": "8400394",
@@ -2116,8 +2116,8 @@
 	"shortName": "Lelystad",
 	"rdtURL": "lelystad-centrum",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.50778",
-	"geoLong": "5.472778"
+	"latitude": "52.50778",
+	"longitude": "5.472778"
 }, {
 	"code": "lp",
 	"uic": "8400403",
@@ -2126,8 +2126,8 @@
 	"shortName": "Loppersum",
 	"rdtURL": "loppersum",
 	"type": "stoptreinstation",
-	"geoLat": "53.334713",
-	"geoLong": "6.7472625"
+	"latitude": "53.334713",
+	"longitude": "6.7472625"
 }, {
 	"code": "ltn",
 	"uic": "8400405",
@@ -2136,8 +2136,8 @@
 	"shortName": "Lunteren",
 	"rdtURL": "lunteren",
 	"type": "stoptreinstation",
-	"geoLat": "52.085278",
-	"geoLong": "5.6244445"
+	"latitude": "52.085278",
+	"longitude": "5.6244445"
 }, {
 	"code": "ltv",
 	"uic": "8400395",
@@ -2146,8 +2146,8 @@
 	"shortName": "Lichtenv-G",
 	"rdtURL": "lichtenvoorde-groenlo",
 	"type": "stoptreinstation",
-	"geoLat": "52.01188",
-	"geoLong": "6.59641"
+	"latitude": "52.01188",
+	"longitude": "6.59641"
 }, {
 	"code": "lut",
 	"uic": "8400248",
@@ -2156,8 +2156,8 @@
 	"shortName": "Geleen-Lut",
 	"rdtURL": "geleen-lutterade",
 	"type": "stoptreinstation",
-	"geoLat": "50.975555",
-	"geoLong": "5.8247223"
+	"latitude": "50.975555",
+	"longitude": "5.8247223"
 }, {
 	"code": "lw",
 	"uic": "8400387",
@@ -2166,8 +2166,8 @@
 	"shortName": "Leeuwarden",
 	"rdtURL": "leeuwarden",
 	"type": "knooppuntintercitystation",
-	"geoLat": "53.195835",
-	"geoLong": "5.792222"
+	"latitude": "53.195835",
+	"longitude": "5.792222"
 }, {
 	"code": "lwc",
 	"uic": "8400389",
@@ -2176,8 +2176,8 @@
 	"shortName": "Camminghab",
 	"rdtURL": "leeuwarden-camminghaburen",
 	"type": "stoptreinstation",
-	"geoLat": "53.20218",
-	"geoLong": "5.8422966"
+	"latitude": "53.20218",
+	"longitude": "5.8422966"
 }, {
 	"code": "mas",
 	"uic": "8400419",
@@ -2186,8 +2186,8 @@
 	"shortName": "Maarssen",
 	"rdtURL": "maarssen",
 	"type": "stoptreinstation",
-	"geoLat": "52.135277",
-	"geoLong": "5.0336113"
+	"latitude": "52.135277",
+	"longitude": "5.0336113"
 }, {
 	"code": "mdb",
 	"uic": "8400436",
@@ -2196,8 +2196,8 @@
 	"shortName": "Middelburg",
 	"rdtURL": "middelburg",
 	"type": "stoptreinstation",
-	"geoLat": "51.49472",
-	"geoLong": "3.6172223"
+	"latitude": "51.49472",
+	"longitude": "3.6172223"
 }, {
 	"code": "mes",
 	"uic": "8400434",
@@ -2206,8 +2206,8 @@
 	"shortName": "Meerssen",
 	"rdtURL": "meerssen",
 	"type": "sneltreinstation",
-	"geoLat": "50.88288",
-	"geoLong": "5.7509995"
+	"latitude": "50.88288",
+	"longitude": "5.7509995"
 }, {
 	"code": "mg",
 	"uic": "8400427",
@@ -2216,8 +2216,8 @@
 	"shortName": "Mantgum",
 	"rdtURL": "mantgum",
 	"type": "stoptreinstation",
-	"geoLat": "53.12964",
-	"geoLong": "5.7131996"
+	"latitude": "53.12964",
+	"longitude": "5.7131996"
 }, {
 	"code": "mmlh",
 	"uic": "8400446",
@@ -2226,8 +2226,8 @@
 	"shortName": "Mook Molen",
 	"rdtURL": "mook-molenhoek",
 	"type": "stoptreinstation",
-	"geoLat": "51.756943",
-	"geoLong": "5.872778"
+	"latitude": "51.756943",
+	"longitude": "5.872778"
 }, {
 	"code": "mp",
 	"uic": "8400435",
@@ -2236,8 +2236,8 @@
 	"shortName": "Meppel",
 	"rdtURL": "meppel",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.690834",
-	"geoLong": "6.1975"
+	"latitude": "52.690834",
+	"longitude": "6.1975"
 }, {
 	"code": "mrb",
 	"uic": "8400428",
@@ -2246,8 +2246,8 @@
 	"shortName": "Mariënberg",
 	"rdtURL": "marienberg",
 	"type": "knooppuntsneltreinstation",
-	"geoLat": "52.509445",
-	"geoLong": "6.575278"
+	"latitude": "52.509445",
+	"longitude": "6.575278"
 }, {
 	"code": "mrn",
 	"uic": "8400417",
@@ -2256,8 +2256,8 @@
 	"shortName": "Maarn",
 	"rdtURL": "maarn",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.064167",
-	"geoLong": "5.37"
+	"latitude": "52.064167",
+	"longitude": "5.37"
 }, {
 	"code": "mss",
 	"uic": "8400422",
@@ -2266,8 +2266,8 @@
 	"shortName": "Maassluis",
 	"rdtURL": "maassluis",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.91611",
-	"geoLong": "4.254722"
+	"latitude": "51.91611",
+	"longitude": "4.254722"
 }, {
 	"code": "msw",
 	"uic": "8400421",
@@ -2276,8 +2276,8 @@
 	"shortName": "Maassl W",
 	"rdtURL": "maassluis-west",
 	"type": "stoptreinstation",
-	"geoLat": "51.925835",
-	"geoLong": "4.236111"
+	"latitude": "51.925835",
+	"longitude": "4.236111"
 }, {
 	"code": "mt",
 	"uic": "8400424",
@@ -2286,8 +2286,8 @@
 	"shortName": "Maastricht",
 	"rdtURL": "maastricht",
 	"type": "knooppuntintercitystation",
-	"geoLat": "50.850277",
-	"geoLong": "5.7055554"
+	"latitude": "50.850277",
+	"longitude": "5.7055554"
 }, {
 	"code": "mth",
 	"uic": "8400430",
@@ -2296,8 +2296,8 @@
 	"shortName": "Martensh",
 	"rdtURL": "martenshoek",
 	"type": "stoptreinstation",
-	"geoLat": "53.160725",
-	"geoLong": "6.7402987"
+	"latitude": "53.160725",
+	"longitude": "6.7402987"
 }, {
 	"code": "mtr",
 	"uic": "8400426",
@@ -2306,8 +2306,8 @@
 	"shortName": "Maastr Rw",
 	"rdtURL": "maastricht-randwyck",
 	"type": "stoptreinstation",
-	"geoLat": "50.83861",
-	"geoLong": "5.717222"
+	"latitude": "50.83861",
+	"longitude": "5.717222"
 }, {
 	"code": "mz",
 	"uic": "8400432",
@@ -2316,8 +2316,8 @@
 	"shortName": "Maarheeze",
 	"rdtURL": "maarheeze",
 	"type": "stoptreinstation",
-	"geoLat": "51.30376",
-	"geoLong": "5.630343"
+	"latitude": "51.30376",
+	"longitude": "5.630343"
 }, {
 	"code": "na",
 	"uic": "8400454",
@@ -2326,8 +2326,8 @@
 	"shortName": "Nw A'dam",
 	"rdtURL": "nieuw-amsterdam",
 	"type": "sneltreinstation",
-	"geoLat": "52.718613",
-	"geoLong": "6.848611"
+	"latitude": "52.718613",
+	"longitude": "6.848611"
 }, {
 	"code": "ndb",
 	"uic": "8400452",
@@ -2336,8 +2336,8 @@
 	"shortName": "Naarden-B",
 	"rdtURL": "naarden-bussum",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.280277",
-	"geoLong": "5.1569443"
+	"latitude": "52.280277",
+	"longitude": "5.1569443"
 }, {
 	"code": "nh",
 	"uic": "8400467",
@@ -2346,8 +2346,8 @@
 	"shortName": "Nuth",
 	"rdtURL": "nuth",
 	"type": "stoptreinstation",
-	"geoLat": "50.919445",
-	"geoLong": "5.892778"
+	"latitude": "50.919445",
+	"longitude": "5.892778"
 }, {
 	"code": "nkk",
 	"uic": "8400469",
@@ -2356,8 +2356,8 @@
 	"shortName": "Nijkerk",
 	"rdtURL": "nijkerk",
 	"type": "stoptreinstation",
-	"geoLat": "52.22222",
-	"geoLong": "5.493889"
+	"latitude": "52.22222",
+	"longitude": "5.493889"
 }, {
 	"code": "nm",
 	"uic": "8400470",
@@ -2366,8 +2366,8 @@
 	"shortName": "Nijmegen",
 	"rdtURL": "nijmegen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.843613",
-	"geoLong": "5.8522224"
+	"latitude": "51.843613",
+	"longitude": "5.8522224"
 }, {
 	"code": "nmd",
 	"uic": "8400475",
@@ -2376,8 +2376,8 @@
 	"shortName": "Dukenburg",
 	"rdtURL": "nijmegen-dukenburg",
 	"type": "stoptreinstation",
-	"geoLat": "51.824165",
-	"geoLong": "5.7955556"
+	"latitude": "51.824165",
+	"longitude": "5.7955556"
 }, {
 	"code": "nmh",
 	"uic": "8400468",
@@ -2386,8 +2386,8 @@
 	"shortName": "Heyendaal",
 	"rdtURL": "nijmegen-heyendaal",
 	"type": "stoptreinstation",
-	"geoLat": "51.826946",
-	"geoLong": "5.8675"
+	"latitude": "51.826946",
+	"longitude": "5.8675"
 }, {
 	"code": "nml",
 	"uic": "8400451",
@@ -2396,8 +2396,8 @@
 	"shortName": "Lent",
 	"rdtURL": "nijmegen-lent",
 	"type": "stoptreinstation",
-	"geoLat": "51.8642",
-	"geoLong": "5.8595"
+	"latitude": "51.8642",
+	"longitude": "5.8595"
 }, {
 	"code": "ns",
 	"uic": "8400466",
@@ -2406,8 +2406,8 @@
 	"shortName": "Nunspeet",
 	"rdtURL": "nunspeet",
 	"type": "stoptreinstation",
-	"geoLat": "52.370834",
-	"geoLong": "5.785278"
+	"latitude": "52.370834",
+	"longitude": "5.785278"
 }, {
 	"code": "nsch",
 	"uic": "8400457",
@@ -2416,8 +2416,8 @@
 	"shortName": "Nweschans",
 	"rdtURL": "bad-nieuweschans",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.1844",
-	"geoLong": "7.19937"
+	"latitude": "53.1844",
+	"longitude": "7.19937"
 }, {
 	"code": "nvd",
 	"uic": "8400472",
@@ -2426,8 +2426,8 @@
 	"shortName": "Nijverdal",
 	"rdtURL": "nijverdal",
 	"type": "stoptreinstation",
-	"geoLat": "52.36555",
-	"geoLong": "6.471111"
+	"latitude": "52.36555",
+	"longitude": "6.471111"
 }, {
 	"code": "nvp",
 	"uic": "8400460",
@@ -2436,8 +2436,8 @@
 	"shortName": "Nw Vennep",
 	"rdtURL": "nieuw-vennep",
 	"type": "stoptreinstation",
-	"geoLat": "52.25889",
-	"geoLong": "4.6455555"
+	"latitude": "52.25889",
+	"longitude": "4.6455555"
 }, {
 	"code": "nwk",
 	"uic": "8400455",
@@ -2446,8 +2446,8 @@
 	"shortName": "Nieuwerkrk",
 	"rdtURL": "nieuwerkerk-a-d-ijssel",
 	"type": "stoptreinstation",
-	"geoLat": "51.96528",
-	"geoLong": "4.6169443"
+	"latitude": "51.96528",
+	"longitude": "4.6169443"
 }, {
 	"code": "nwl",
 	"uic": "8400563",
@@ -2456,8 +2456,8 @@
 	"shortName": "Nieuwland",
 	"rdtURL": "schiedam-nieuwland",
 	"type": "stoptreinstation",
-	"geoLat": "51.922222",
-	"geoLong": "4.382222"
+	"latitude": "51.922222",
+	"longitude": "4.382222"
 }, {
 	"code": "o",
 	"uic": "8400495",
@@ -2466,8 +2466,8 @@
 	"shortName": "Oss",
 	"rdtURL": "oss",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.765556",
-	"geoLong": "5.5322223"
+	"latitude": "51.765556",
+	"longitude": "5.5322223"
 }, {
 	"code": "obd",
 	"uic": "8400480",
@@ -2476,8 +2476,8 @@
 	"shortName": "Obdam",
 	"rdtURL": "obdam",
 	"type": "stoptreinstation",
-	"geoLat": "52.678055",
-	"geoLong": "4.9072223"
+	"latitude": "52.678055",
+	"longitude": "4.9072223"
 }, {
 	"code": "odb",
 	"uic": "8400498",
@@ -2486,8 +2486,8 @@
 	"shortName": "Oudenbosch",
 	"rdtURL": "oudenbosch",
 	"type": "stoptreinstation",
-	"geoLat": "51.587776",
-	"geoLong": "4.5333333"
+	"latitude": "51.587776",
+	"longitude": "4.5333333"
 }, {
 	"code": "odz",
 	"uic": "8400483",
@@ -2496,8 +2496,8 @@
 	"shortName": "Oldenzaal",
 	"rdtURL": "oldenzaal",
 	"type": "stoptreinstation",
-	"geoLat": "52.30639",
-	"geoLong": "6.9347224"
+	"latitude": "52.30639",
+	"longitude": "6.9347224"
 }, {
 	"code": "omn",
 	"uic": "8400487",
@@ -2506,8 +2506,8 @@
 	"shortName": "Ommen",
 	"rdtURL": "ommen",
 	"type": "knooppuntsneltreinstation",
-	"geoLat": "52.509445",
-	"geoLong": "6.4158335"
+	"latitude": "52.509445",
+	"longitude": "6.4158335"
 }, {
 	"code": "op",
 	"uic": "8400494",
@@ -2516,8 +2516,8 @@
 	"shortName": "Opheusden",
 	"rdtURL": "opheusden",
 	"type": "stoptreinstation",
-	"geoLat": "51.926163",
-	"geoLong": "5.6371145"
+	"latitude": "51.926163",
+	"longitude": "5.6371145"
 }, {
 	"code": "ost",
 	"uic": "8400486",
@@ -2526,8 +2526,8 @@
 	"shortName": "Olst",
 	"rdtURL": "olst",
 	"type": "stoptreinstation",
-	"geoLat": "52.33472",
-	"geoLong": "6.1130557"
+	"latitude": "52.33472",
+	"longitude": "6.1130557"
 }, {
 	"code": "ot",
 	"uic": "8400482",
@@ -2536,8 +2536,8 @@
 	"shortName": "Oisterwijk",
 	"rdtURL": "oisterwijk",
 	"type": "stoptreinstation",
-	"geoLat": "51.582222",
-	"geoLong": "5.1941667"
+	"latitude": "51.582222",
+	"longitude": "5.1941667"
 }, {
 	"code": "otb",
 	"uic": "8400489",
@@ -2546,8 +2546,8 @@
 	"shortName": "Oosterbeek",
 	"rdtURL": "oosterbeek",
 	"type": "stoptreinstation",
-	"geoLat": "51995",
-	"geoLong": "5.84"
+	"latitude": "51995",
+	"longitude": "5.84"
 }, {
 	"code": "ovn",
 	"uic": "8400501",
@@ -2556,8 +2556,8 @@
 	"shortName": "Overveen",
 	"rdtURL": "overveen",
 	"type": "stoptreinstation",
-	"geoLat": "52.39111",
-	"geoLong": "4.606111"
+	"latitude": "52.39111",
+	"longitude": "4.606111"
 }, {
 	"code": "ow",
 	"uic": "8400496",
@@ -2566,8 +2566,8 @@
 	"shortName": "Oss W",
 	"rdtURL": "oss-west",
 	"type": "stoptreinstation",
-	"geoLat": "51.758057",
-	"geoLong": "5.5055556"
+	"latitude": "51.758057",
+	"longitude": "5.5055556"
 }, {
 	"code": "pmo",
 	"uic": "8400506",
@@ -2576,8 +2576,8 @@
 	"shortName": "Overwhere",
 	"rdtURL": "purmerend-overwhere",
 	"type": "stoptreinstation",
-	"geoLat": "52.51139",
-	"geoLong": "4.9683332"
+	"latitude": "52.51139",
+	"longitude": "4.9683332"
 }, {
 	"code": "pmr",
 	"uic": "8400508",
@@ -2586,8 +2586,8 @@
 	"shortName": "Purmerend",
 	"rdtURL": "purmerend",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.503056",
-	"geoLong": "4.953611"
+	"latitude": "52.503056",
+	"longitude": "4.953611"
 }, {
 	"code": "pmw",
 	"uic": "8400499",
@@ -2596,8 +2596,8 @@
 	"shortName": "Weidevenne",
 	"rdtURL": "purmerend-weidevenne",
 	"type": "stoptreinstation",
-	"geoLat": "52.49659",
-	"geoLong": "4.9356294"
+	"latitude": "52.49659",
+	"longitude": "4.9356294"
 }, {
 	"code": "pt",
 	"uic": "8400509",
@@ -2606,8 +2606,8 @@
 	"shortName": "Putten",
 	"rdtURL": "putten",
 	"type": "stoptreinstation",
-	"geoLat": "52265",
-	"geoLong": "5.575278"
+	"latitude": "52265",
+	"longitude": "5.575278"
 }, {
 	"code": "rai",
 	"uic": "8400056",
@@ -2616,8 +2616,8 @@
 	"shortName": "A'dam RAI",
 	"rdtURL": "amsterdam-rai",
 	"type": "stoptreinstation",
-	"geoLat": "52.337223",
-	"geoLong": "4.890278"
+	"latitude": "52.337223",
+	"longitude": "4.890278"
 }, {
 	"code": "rat",
 	"uic": "8400513",
@@ -2626,8 +2626,8 @@
 	"shortName": "Raalte",
 	"rdtURL": "raalte",
 	"type": "stoptreinstation",
-	"geoLat": "52.391666",
-	"geoLong": "6.2775"
+	"latitude": "52.391666",
+	"longitude": "6.2775"
 }, {
 	"code": "rb",
 	"uic": "8400521",
@@ -2636,8 +2636,8 @@
 	"shortName": "Rilland-B",
 	"rdtURL": "rilland-bath",
 	"type": "stoptreinstation",
-	"geoLat": "51.42278",
-	"geoLong": "4.161111"
+	"latitude": "51.42278",
+	"longitude": "4.161111"
 }, {
 	"code": "rd",
 	"uic": "8400525",
@@ -2646,8 +2646,8 @@
 	"shortName": "Roodesch",
 	"rdtURL": "roodeschool",
 	"type": "stoptreinstation",
-	"geoLat": "53.419212",
-	"geoLong": "6.760617"
+	"latitude": "53.419212",
+	"longitude": "6.760617"
 }, {
 	"code": "rh",
 	"uic": "8400519",
@@ -2656,8 +2656,8 @@
 	"shortName": "Rheden",
 	"rdtURL": "rheden",
 	"type": "stoptreinstation",
-	"geoLat": "52.01",
-	"geoLong": "6.0305557"
+	"latitude": "52.01",
+	"longitude": "6.0305557"
 }, {
 	"code": "rhn",
 	"uic": "8400517",
@@ -2666,8 +2666,8 @@
 	"shortName": "Rhenen",
 	"rdtURL": "rhenen",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.95861",
-	"geoLong": "5.5783334"
+	"latitude": "51.95861",
+	"longitude": "5.5783334"
 }, {
 	"code": "rl",
 	"uic": "8400537",
@@ -2676,8 +2676,8 @@
 	"shortName": "Ruurlo",
 	"rdtURL": "ruurlo",
 	"type": "stoptreinstation",
-	"geoLat": "52.08109",
-	"geoLong": "6.4492655"
+	"latitude": "52.08109",
+	"longitude": "6.4492655"
 }, {
 	"code": "rlb",
 	"uic": "8400542",
@@ -2686,8 +2686,8 @@
 	"shortName": "Lombardije",
 	"rdtURL": "rotterdam-lombardijen",
 	"type": "stoptreinstation",
-	"geoLat": "51.88",
-	"geoLong": "4.5313888"
+	"latitude": "51.88",
+	"longitude": "4.5313888"
 }, {
 	"code": "rm",
 	"uic": "8400523",
@@ -2696,8 +2696,8 @@
 	"shortName": "Roermond",
 	"rdtURL": "roermond",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.193054",
-	"geoLong": "5.994167"
+	"latitude": "51.193054",
+	"longitude": "5.994167"
 }, {
 	"code": "rs",
 	"uic": "8400524",
@@ -2706,8 +2706,8 @@
 	"shortName": "Rosmalen",
 	"rdtURL": "rosmalen",
 	"type": "stoptreinstation",
-	"geoLat": "51.71472",
-	"geoLong": "5.3680553"
+	"latitude": "51.71472",
+	"longitude": "5.3680553"
 }, {
 	"code": "rsd",
 	"uic": "8400526",
@@ -2716,8 +2716,8 @@
 	"shortName": "Roosendaal",
 	"rdtURL": "roosendaal",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.54028",
-	"geoLong": "4.4583335"
+	"latitude": "51.54028",
+	"longitude": "4.4583335"
 }, {
 	"code": "rsn",
 	"uic": "8400538",
@@ -2726,8 +2726,8 @@
 	"shortName": "Rijssen",
 	"rdtURL": "rijssen",
 	"type": "stoptreinstation",
-	"geoLat": "52.31222",
-	"geoLong": "6.520278"
+	"latitude": "52.31222",
+	"longitude": "6.520278"
 }, {
 	"code": "rsw",
 	"uic": "8400505",
@@ -2736,8 +2736,8 @@
 	"shortName": "Rijswijk",
 	"rdtURL": "rijswijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.039722",
-	"geoLong": "4.3191667"
+	"latitude": "52.039722",
+	"longitude": "4.3191667"
 }, {
 	"code": "rta",
 	"uic": "8400507",
@@ -2746,8 +2746,8 @@
 	"shortName": "Alexander",
 	"rdtURL": "rotterdam-alexander",
 	"type": "intercitystation",
-	"geoLat": "51.951946",
-	"geoLong": "4.5536113"
+	"latitude": "51.951946",
+	"longitude": "4.5536113"
 }, {
 	"code": "rtb",
 	"uic": "8400529",
@@ -2756,8 +2756,8 @@
 	"shortName": "Blaak",
 	"rdtURL": "rotterdam-blaak",
 	"type": "intercitystation",
-	"geoLat": "51.920277",
-	"geoLong": "4.4888887"
+	"latitude": "51.920277",
+	"longitude": "4.4888887"
 }, {
 	"code": "rtd",
 	"uic": "8400530",
@@ -2766,8 +2766,8 @@
 	"shortName": "R'dam C",
 	"rdtURL": "rotterdam-centraal",
 	"type": "megastation",
-	"geoLat": "51925",
-	"geoLong": "4.4688888"
+	"latitude": "51925",
+	"longitude": "4.4688888"
 }, {
 	"code": "rtn",
 	"uic": "8400531",
@@ -2776,8 +2776,8 @@
 	"shortName": "R'dam N",
 	"rdtURL": "rotterdam-noord",
 	"type": "stoptreinstation",
-	"geoLat": "51.942223",
-	"geoLong": "4.4816666"
+	"latitude": "51.942223",
+	"longitude": "4.4816666"
 }, {
 	"code": "rtst",
 	"uic": "8400534",
@@ -2786,8 +2786,8 @@
 	"shortName": "R'dam Sta",
 	"rdtURL": "rotterdam-stadion",
 	"type": "facultatiefstation",
-	"geoLat": "51.89389",
-	"geoLong": "4.519722"
+	"latitude": "51.89389",
+	"longitude": "4.519722"
 }, {
 	"code": "rtz",
 	"uic": "8400533",
@@ -2796,8 +2796,8 @@
 	"shortName": "R'dam Z",
 	"rdtURL": "rotterdam-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "51.904446",
-	"geoLong": "4.5102777"
+	"latitude": "51.904446",
+	"longitude": "4.5102777"
 }, {
 	"code": "rv",
 	"uic": "8400518",
@@ -2806,8 +2806,8 @@
 	"shortName": "Reuver",
 	"rdtURL": "reuver",
 	"type": "stoptreinstation",
-	"geoLat": "51.28322",
-	"geoLong": "6.0789585"
+	"latitude": "51.28322",
+	"longitude": "6.0789585"
 }, {
 	"code": "rvs",
 	"uic": "8400515",
@@ -2816,8 +2816,8 @@
 	"shortName": "Ravenstein",
 	"rdtURL": "ravenstein",
 	"type": "stoptreinstation",
-	"geoLat": "51.794167",
-	"geoLong": "5.6358333"
+	"latitude": "51.794167",
+	"longitude": "5.6358333"
 }, {
 	"code": "sbk",
 	"uic": "8400572",
@@ -2826,8 +2826,8 @@
 	"shortName": "Spaubeek",
 	"rdtURL": "spaubeek",
 	"type": "stoptreinstation",
-	"geoLat": "50.943054",
-	"geoLong": "5.8516665"
+	"latitude": "50.943054",
+	"longitude": "5.8516665"
 }, {
 	"code": "sd",
 	"uic": "8400569",
@@ -2836,8 +2836,8 @@
 	"shortName": "Soestdijk",
 	"rdtURL": "soestdijk",
 	"type": "stoptreinstation",
-	"geoLat": "52.183613",
-	"geoLong": "5.3"
+	"latitude": "52.183613",
+	"longitude": "5.3"
 }, {
 	"code": "sda",
 	"uic": "8400551",
@@ -2846,8 +2846,8 @@
 	"shortName": "Scheemda",
 	"rdtURL": "scheemda",
 	"type": "stoptreinstation",
-	"geoLat": "53.165535",
-	"geoLong": "6.9777775"
+	"latitude": "53.165535",
+	"longitude": "6.9777775"
 }, {
 	"code": "sdm",
 	"uic": "8400553",
@@ -2856,8 +2856,8 @@
 	"shortName": "Schiedam C",
 	"rdtURL": "schiedam-centrum",
 	"type": "intercitystation",
-	"geoLat": "51.921246",
-	"geoLong": "4.4089937"
+	"latitude": "51.921246",
+	"longitude": "4.4089937"
 }, {
 	"code": "sdt",
 	"uic": "8400565",
@@ -2866,8 +2866,8 @@
 	"shortName": "Sliedrecht",
 	"rdtURL": "sliedrecht",
 	"type": "stoptreinstation",
-	"geoLat": "51.829723",
-	"geoLong": "4.778333"
+	"latitude": "51.829723",
+	"longitude": "4.778333"
 }, {
 	"code": "sgl",
 	"uic": "8400341",
@@ -2876,8 +2876,8 @@
 	"shortName": "Houthem-St",
 	"rdtURL": "houthem-st-gerlach",
 	"type": "stoptreinstation",
-	"geoLat": "50.873333",
-	"geoLong": "5.797222"
+	"latitude": "50.873333",
+	"longitude": "5.797222"
 }, {
 	"code": "sgn",
 	"uic": "8400549",
@@ -2886,8 +2886,8 @@
 	"shortName": "Schagen",
 	"rdtURL": "schagen",
 	"type": "stoptreinstation",
-	"geoLat": "52.784443",
-	"geoLong": "4.805278"
+	"latitude": "52.784443",
+	"longitude": "4.805278"
 }, {
 	"code": "shl",
 	"uic": "8400561",
@@ -2896,8 +2896,8 @@
 	"shortName": "Schiphol",
 	"rdtURL": "schiphol",
 	"type": "megastation",
-	"geoLat": "52.309444",
-	"geoLong": "4.7619443"
+	"latitude": "52.309444",
+	"longitude": "4.7619443"
 }, {
 	"code": "sk",
 	"uic": "8400566",
@@ -2906,8 +2906,8 @@
 	"shortName": "Sneek",
 	"rdtURL": "sneek",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.032867",
-	"geoLong": "5.6523967"
+	"latitude": "53.032867",
+	"longitude": "5.6523967"
 }, {
 	"code": "sknd",
 	"uic": "8400574",
@@ -2916,8 +2916,8 @@
 	"shortName": "Sneek N",
 	"rdtURL": "sneek-noord",
 	"type": "stoptreinstation",
-	"geoLat": "53.04093",
-	"geoLong": "5.663181"
+	"latitude": "53.04093",
+	"longitude": "5.663181"
 }, {
 	"code": "sm",
 	"uic": "8400583",
@@ -2926,8 +2926,8 @@
 	"shortName": "Swalmen",
 	"rdtURL": "swalmen",
 	"type": "stoptreinstation",
-	"geoLat": "51.23582",
-	"geoLong": "6.03228"
+	"latitude": "51.23582",
+	"longitude": "6.03228"
 }, {
 	"code": "sn",
 	"uic": "8400554",
@@ -2936,8 +2936,8 @@
 	"shortName": "Schinnen",
 	"rdtURL": "schinnen",
 	"type": "stoptreinstation",
-	"geoLat": "50.939167",
-	"geoLong": "5.8744445"
+	"latitude": "50.939167",
+	"longitude": "5.8744445"
 }, {
 	"code": "sog",
 	"uic": "8400555",
@@ -2946,8 +2946,8 @@
 	"shortName": "Schin op G",
 	"rdtURL": "schin-op-geul",
 	"type": "stoptreinstation",
-	"geoLat": "50.856388",
-	"geoLong": "5.8722224"
+	"latitude": "50.856388",
+	"longitude": "5.8722224"
 }, {
 	"code": "spm",
 	"uic": "8400545",
@@ -2956,8 +2956,8 @@
 	"shortName": "Sappemr O",
 	"rdtURL": "sappemeer-oost",
 	"type": "stoptreinstation",
-	"geoLat": "53.158916",
-	"geoLong": "6.7955647"
+	"latitude": "53.158916",
+	"longitude": "6.7955647"
 }, {
 	"code": "sptn",
 	"uic": "8400543",
@@ -2966,8 +2966,8 @@
 	"shortName": "Santprt N",
 	"rdtURL": "santpoort-noord",
 	"type": "stoptreinstation",
-	"geoLat": "52.433887",
-	"geoLong": "4.6325"
+	"latitude": "52.433887",
+	"longitude": "4.6325"
 }, {
 	"code": "sptz",
 	"uic": "8400544",
@@ -2976,8 +2976,8 @@
 	"shortName": "Santprt Z",
 	"rdtURL": "santpoort-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.419724",
-	"geoLong": "4.6313887"
+	"latitude": "52.419724",
+	"longitude": "4.6313887"
 }, {
 	"code": "srn",
 	"uic": "8400582",
@@ -2986,8 +2986,8 @@
 	"shortName": "Susteren",
 	"rdtURL": "susteren",
 	"type": "stoptreinstation",
-	"geoLat": "51.06139",
-	"geoLong": "5.8630557"
+	"latitude": "51.06139",
+	"longitude": "5.8630557"
 }, {
 	"code": "st",
 	"uic": "8400567",
@@ -2996,8 +2996,8 @@
 	"shortName": "Soest",
 	"rdtURL": "soest",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.173332",
-	"geoLong": "5.31"
+	"latitude": "52.173332",
+	"longitude": "5.31"
 }, {
 	"code": "std",
 	"uic": "8400564",
@@ -3006,8 +3006,8 @@
 	"shortName": "Sittard",
 	"rdtURL": "sittard",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.001667",
-	"geoLong": "5.858611"
+	"latitude": "51.001667",
+	"longitude": "5.858611"
 }, {
 	"code": "stm",
 	"uic": "8400576",
@@ -3016,8 +3016,8 @@
 	"shortName": "Stedum",
 	"rdtURL": "stedum",
 	"type": "stoptreinstation",
-	"geoLat": "53.32621",
-	"geoLong": "6.6875553"
+	"latitude": "53.32621",
+	"longitude": "6.6875553"
 }, {
 	"code": "stv",
 	"uic": "8400575",
@@ -3026,8 +3026,8 @@
 	"shortName": "Stavoren",
 	"rdtURL": "stavoren",
 	"type": "stoptreinstation",
-	"geoLat": "52.886555",
-	"geoLong": "5.360021"
+	"latitude": "52.886555",
+	"longitude": "5.360021"
 }, {
 	"code": "stz",
 	"uic": "8400571",
@@ -3036,8 +3036,8 @@
 	"shortName": "Soest Z",
 	"rdtURL": "soest-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.16528",
-	"geoLong": "5.303056"
+	"latitude": "52.16528",
+	"longitude": "5.303056"
 }, {
 	"code": "swd",
 	"uic": "8400547",
@@ -3046,8 +3046,8 @@
 	"shortName": "Sauwerd",
 	"rdtURL": "sauwerd",
 	"type": "stoptreinstation",
-	"geoLat": "53.29113",
-	"geoLong": "6.5404"
+	"latitude": "53.29113",
+	"longitude": "6.5404"
 }, {
 	"code": "swk",
 	"uic": "8400578",
@@ -3056,8 +3056,8 @@
 	"shortName": "Steenwijk",
 	"rdtURL": "steenwijk",
 	"type": "intercitystation",
-	"geoLat": "52.79151",
-	"geoLong": "6.114556"
+	"latitude": "52.79151",
+	"longitude": "6.114556"
 }, {
 	"code": "tb",
 	"uic": "8400597",
@@ -3066,8 +3066,8 @@
 	"shortName": "Tilburg",
 	"rdtURL": "tilburg",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.560555",
-	"geoLong": "5.083611"
+	"latitude": "51.560555",
+	"longitude": "5.083611"
 }, {
 	"code": "tbg",
 	"uic": "8400592",
@@ -3076,8 +3076,8 @@
 	"shortName": "Terborg",
 	"rdtURL": "terborg",
 	"type": "stoptreinstation",
-	"geoLat": "51.922455",
-	"geoLong": "6.3642464"
+	"latitude": "51.922455",
+	"longitude": "6.3642464"
 }, {
 	"code": "tbr",
 	"uic": "8400598",
@@ -3086,8 +3086,8 @@
 	"shortName": "Reeshof",
 	"rdtURL": "tilburg-reeshof",
 	"type": "stoptreinstation",
-	"geoLat": "51.573612",
-	"geoLong": "4.9944444"
+	"latitude": "51.573612",
+	"longitude": "4.9944444"
 }, {
 	"code": "tbu",
 	"uic": "8400594",
@@ -3096,8 +3096,8 @@
 	"shortName": "Tilburg U",
 	"rdtURL": "tilburg-universiteit",
 	"type": "stoptreinstation",
-	"geoLat": "51565",
-	"geoLong": "5.051111"
+	"latitude": "51565",
+	"longitude": "5.051111"
 }, {
 	"code": "tg",
 	"uic": "8400591",
@@ -3106,8 +3106,8 @@
 	"shortName": "Tegelen",
 	"rdtURL": "tegelen",
 	"type": "stoptreinstation",
-	"geoLat": "51.33894",
-	"geoLong": "6.14253"
+	"latitude": "51.33894",
+	"longitude": "6.14253"
 }, {
 	"code": "tl",
 	"uic": "8400596",
@@ -3116,8 +3116,8 @@
 	"shortName": "Tiel",
 	"rdtURL": "tiel",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.889446",
-	"geoLong": "5.422222"
+	"latitude": "51.889446",
+	"longitude": "5.422222"
 }, {
 	"code": "tpsw",
 	"uic": "8400600",
@@ -3126,8 +3126,8 @@
 	"shortName": "Passewaaij",
 	"rdtURL": "tiel-passewaaij",
 	"type": "stoptreinstation",
-	"geoLat": "51.87389",
-	"geoLong": "5.3922224"
+	"latitude": "51.87389",
+	"longitude": "5.3922224"
 }, {
 	"code": "twl",
 	"uic": "8400599",
@@ -3136,8 +3136,8 @@
 	"shortName": "Twello",
 	"rdtURL": "twello",
 	"type": "stoptreinstation",
-	"geoLat": "52.237778",
-	"geoLong": "6.098611"
+	"latitude": "52.237778",
+	"longitude": "6.098611"
 }, {
 	"code": "uhm",
 	"uic": "8400618",
@@ -3146,8 +3146,8 @@
 	"shortName": "Uithuizerm",
 	"rdtURL": "uithuizermeeden",
 	"type": "stoptreinstation",
-	"geoLat": "53.414585",
-	"geoLong": "6.7202973"
+	"latitude": "53.414585",
+	"longitude": "6.7202973"
 }, {
 	"code": "uhz",
 	"uic": "8400617",
@@ -3156,8 +3156,8 @@
 	"shortName": "Uithuizen",
 	"rdtURL": "uithuizen",
 	"type": "stoptreinstation",
-	"geoLat": "53.409958",
-	"geoLong": "6.6748867"
+	"latitude": "53.409958",
+	"longitude": "6.6748867"
 }, {
 	"code": "ust",
 	"uic": "8400619",
@@ -3166,8 +3166,8 @@
 	"shortName": "Usquert",
 	"rdtURL": "usquert",
 	"type": "stoptreinstation",
-	"geoLat": "53.401474",
-	"geoLong": "6.6093774"
+	"latitude": "53.401474",
+	"longitude": "6.6093774"
 }, {
 	"code": "ut",
 	"uic": "8400621",
@@ -3176,8 +3176,8 @@
 	"shortName": "Utrecht C",
 	"rdtURL": "utrecht-centraal",
 	"type": "megastation",
-	"geoLat": "52.08889",
-	"geoLong": "5.1102777"
+	"latitude": "52.08889",
+	"longitude": "5.1102777"
 }, {
 	"code": "utg",
 	"uic": "8400615",
@@ -3186,8 +3186,8 @@
 	"shortName": "Uitgeest",
 	"rdtURL": "uitgeest",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.521667",
-	"geoLong": "4.701667"
+	"latitude": "52.521667",
+	"longitude": "4.701667"
 }, {
 	"code": "utl",
 	"uic": "8400623",
@@ -3196,8 +3196,8 @@
 	"shortName": "Lunetten",
 	"rdtURL": "utrecht-lunetten",
 	"type": "stoptreinstation",
-	"geoLat": "52.065556",
-	"geoLong": "5.1441665"
+	"latitude": "52.065556",
+	"longitude": "5.1441665"
 }, {
 	"code": "utm",
 	"uic": "8400624",
@@ -3206,8 +3206,8 @@
 	"shortName": "Maliebaan",
 	"rdtURL": "utrecht-maliebaan",
 	"type": "stoptreinstation",
-	"geoLat": "52.087776",
-	"geoLong": "5.1313887"
+	"latitude": "52.087776",
+	"longitude": "5.1313887"
 }, {
 	"code": "uto",
 	"uic": "8400620",
@@ -3216,8 +3216,8 @@
 	"shortName": "Overvecht",
 	"rdtURL": "utrecht-overvecht",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.11",
-	"geoLong": "5.124722"
+	"latitude": "52.11",
+	"longitude": "5.124722"
 }, {
 	"code": "utt",
 	"uic": "8400614",
@@ -3226,8 +3226,8 @@
 	"shortName": "Terwijde",
 	"rdtURL": "utrecht-terwijde",
 	"type": "stoptreinstation",
-	"geoLat": "52.100555",
-	"geoLong": "5.0416665"
+	"latitude": "52.100555",
+	"longitude": "5.0416665"
 }, {
 	"code": "utzl",
 	"uic": "8400613",
@@ -3236,8 +3236,8 @@
 	"shortName": "Zuilen",
 	"rdtURL": "utrecht-zuilen",
 	"type": "stoptreinstation",
-	"geoLat": "52.103054",
-	"geoLong": "5.09"
+	"latitude": "52.103054",
+	"longitude": "5.09"
 }, {
 	"code": "vb",
 	"uic": "8400658",
@@ -3246,8 +3246,8 @@
 	"shortName": "Voorburg",
 	"rdtURL": "voorburg",
 	"type": "stoptreinstation",
-	"geoLat": "52.066666",
-	"geoLong": "4.3594446"
+	"latitude": "52.066666",
+	"longitude": "4.3594446"
 }, {
 	"code": "vd",
 	"uic": "8400661",
@@ -3256,8 +3256,8 @@
 	"shortName": "Vorden",
 	"rdtURL": "vorden",
 	"type": "stoptreinstation",
-	"geoLat": "52.107193",
-	"geoLong": "6.3170457"
+	"latitude": "52.107193",
+	"longitude": "6.3170457"
 }, {
 	"code": "vdg",
 	"uic": "8400650",
@@ -3266,8 +3266,8 @@
 	"shortName": "Vlaard C",
 	"rdtURL": "vlaardingen-centrum",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.903057",
-	"geoLong": "4.3441668"
+	"latitude": "51.903057",
+	"longitude": "4.3441668"
 }, {
 	"code": "vdl",
 	"uic": "8400656",
@@ -3276,8 +3276,8 @@
 	"shortName": "Voerendaal",
 	"rdtURL": "voerendaal",
 	"type": "stoptreinstation",
-	"geoLat": "50.887222",
-	"geoLong": "5.930278"
+	"latitude": "50.887222",
+	"longitude": "5.930278"
 }, {
 	"code": "vdo",
 	"uic": "8400649",
@@ -3286,8 +3286,8 @@
 	"shortName": "Vlaard O",
 	"rdtURL": "vlaardingen-oost",
 	"type": "stoptreinstation",
-	"geoLat": "51.91028",
-	"geoLong": "4.3616667"
+	"latitude": "51.91028",
+	"longitude": "4.3616667"
 }, {
 	"code": "vdw",
 	"uic": "8400642",
@@ -3296,8 +3296,8 @@
 	"shortName": "Vlaard W",
 	"rdtURL": "vlaardingen-west",
 	"type": "stoptreinstation",
-	"geoLat": "51.904167",
-	"geoLong": "4.3130555"
+	"latitude": "51.904167",
+	"longitude": "4.3130555"
 }, {
 	"code": "vem",
 	"uic": "8400668",
@@ -3306,8 +3306,8 @@
 	"shortName": "Voorst-E",
 	"rdtURL": "voorst-empe",
 	"type": "stoptreinstation",
-	"geoLat": "52.1575",
-	"geoLong": "6.143611"
+	"latitude": "52.1575",
+	"longitude": "6.143611"
 }, {
 	"code": "vg",
 	"uic": "8400667",
@@ -3316,8 +3316,8 @@
 	"shortName": "Vught",
 	"rdtURL": "vught",
 	"type": "stoptreinstation",
-	"geoLat": "51.655556",
-	"geoLong": "5.2919445"
+	"latitude": "51.655556",
+	"longitude": "5.2919445"
 }, {
 	"code": "vh",
 	"uic": "8400655",
@@ -3326,8 +3326,8 @@
 	"shortName": "Voorhout",
 	"rdtURL": "voorhout",
 	"type": "stoptreinstation",
-	"geoLat": "52.224445",
-	"geoLong": "4.4844446"
+	"latitude": "52.224445",
+	"longitude": "4.4844446"
 }, {
 	"code": "vhp",
 	"uic": "8400666",
@@ -3336,8 +3336,8 @@
 	"shortName": "Vroomshoop",
 	"rdtURL": "vroomshoop",
 	"type": "stoptreinstation",
-	"geoLat": "52.45719",
-	"geoLong": "6.569668"
+	"latitude": "52.45719",
+	"longitude": "6.569668"
 }, {
 	"code": "vk",
 	"uic": "8400632",
@@ -3346,8 +3346,8 @@
 	"shortName": "Valkenburg",
 	"rdtURL": "valkenburg",
 	"type": "knooppuntsneltreinstation",
-	"geoLat": "50.86972",
-	"geoLong": "5.832222"
+	"latitude": "50.86972",
+	"longitude": "5.832222"
 }, {
 	"code": "vl",
 	"uic": "8400644",
@@ -3356,8 +3356,8 @@
 	"shortName": "Venlo",
 	"rdtURL": "venlo",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.36361",
-	"geoLong": "6.1727777"
+	"latitude": "51.36361",
+	"longitude": "6.1727777"
 }, {
 	"code": "vlb",
 	"uic": "8400647",
@@ -3366,8 +3366,8 @@
 	"shortName": "Vierlingsb",
 	"rdtURL": "vierlingsbeek",
 	"type": "stoptreinstation",
-	"geoLat": "51.59193",
-	"geoLong": "5.99714"
+	"latitude": "51.59193",
+	"longitude": "5.99714"
 }, {
 	"code": "vndc",
 	"uic": "8400627",
@@ -3376,8 +3376,8 @@
 	"shortName": "Veenendl C",
 	"rdtURL": "veenendaal-centrum",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.02",
-	"geoLong": "5.548611"
+	"latitude": "52.02",
+	"longitude": "5.548611"
 }, {
 	"code": "vndw",
 	"uic": "8400628",
@@ -3386,8 +3386,8 @@
 	"shortName": "Veenendl W",
 	"rdtURL": "veenendaal-west",
 	"type": "stoptreinstation",
-	"geoLat": "52.028057",
-	"geoLong": "5.5313888"
+	"latitude": "52.028057",
+	"longitude": "5.5313888"
 }, {
 	"code": "vp",
 	"uic": "8400640",
@@ -3396,8 +3396,8 @@
 	"shortName": "Velp",
 	"rdtURL": "velp",
 	"type": "stoptreinstation",
-	"geoLat": "51.99472",
-	"geoLong": "5.980278"
+	"latitude": "51.99472",
+	"longitude": "5.980278"
 }, {
 	"code": "vry",
 	"uic": "8400646",
@@ -3406,8 +3406,8 @@
 	"shortName": "Venray",
 	"rdtURL": "venray",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.52657",
-	"geoLong": "6.014178"
+	"latitude": "51.52657",
+	"longitude": "6.014178"
 }, {
 	"code": "vs",
 	"uic": "8400652",
@@ -3416,8 +3416,8 @@
 	"shortName": "Vlissingen",
 	"rdtURL": "vlissingen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "51.445835",
-	"geoLong": "3.5952778"
+	"latitude": "51.445835",
+	"longitude": "3.5952778"
 }, {
 	"code": "vss",
 	"uic": "8400653",
@@ -3426,8 +3426,8 @@
 	"shortName": "Souburg",
 	"rdtURL": "vlissingen-souburg",
 	"type": "stoptreinstation",
-	"geoLat": "51.46472",
-	"geoLong": "3.5952778"
+	"latitude": "51.46472",
+	"longitude": "3.5952778"
 }, {
 	"code": "vst",
 	"uic": "8400659",
@@ -3436,8 +3436,8 @@
 	"shortName": "Voorschtn",
 	"rdtURL": "voorschoten",
 	"type": "stoptreinstation",
-	"geoLat": "52.12528",
-	"geoLong": "4.4325"
+	"latitude": "52.12528",
+	"longitude": "4.4325"
 }, {
 	"code": "vsv",
 	"uic": "8400635",
@@ -3446,8 +3446,8 @@
 	"shortName": "Varsseveld",
 	"rdtURL": "varsseveld",
 	"type": "stoptreinstation",
-	"geoLat": "51.937256",
-	"geoLong": "6.458839"
+	"latitude": "51.937256",
+	"longitude": "6.458839"
 }, {
 	"code": "vtn",
 	"uic": "8400651",
@@ -3456,8 +3456,8 @@
 	"shortName": "Vleuten",
 	"rdtURL": "vleuten",
 	"type": "stoptreinstation",
-	"geoLat": "52.103054",
-	"geoLong": "5.0108333"
+	"latitude": "52.103054",
+	"longitude": "5.0108333"
 }, {
 	"code": "vwd",
 	"uic": "8400638",
@@ -3466,8 +3466,8 @@
 	"shortName": "Veenwouden",
 	"rdtURL": "veenwouden",
 	"type": "stoptreinstation",
-	"geoLat": "53.235184",
-	"geoLong": "5.9886613"
+	"latitude": "53.235184",
+	"longitude": "5.9886613"
 }, {
 	"code": "vz",
 	"uic": "8400664",
@@ -3476,8 +3476,8 @@
 	"shortName": "Vriezenvn",
 	"rdtURL": "vriezenveen",
 	"type": "stoptreinstation",
-	"geoLat": "52.40203",
-	"geoLong": "6.60041"
+	"latitude": "52.40203",
+	"longitude": "6.60041"
 }, {
 	"code": "wad",
 	"uic": "8400675",
@@ -3486,8 +3486,8 @@
 	"shortName": "Waddinxv",
 	"rdtURL": "waddinxveen",
 	"type": "stoptreinstation",
-	"geoLat": "52.044167",
-	"geoLong": "4.649722"
+	"latitude": "52.044167",
+	"longitude": "4.649722"
 }, {
 	"code": "wadn",
 	"uic": "8400674",
@@ -3496,8 +3496,8 @@
 	"shortName": "Waddinxv N",
 	"rdtURL": "waddinxveen-noord",
 	"type": "stoptreinstation",
-	"geoLat": "52055",
-	"geoLong": "4.6483335"
+	"latitude": "52055",
+	"longitude": "4.6483335"
 }, {
 	"code": "wc",
 	"uic": "8400710",
@@ -3506,8 +3506,8 @@
 	"shortName": "Wijchen",
 	"rdtURL": "wijchen",
 	"type": "stoptreinstation",
-	"geoLat": "51.81167",
-	"geoLong": "5.7308335"
+	"latitude": "51.81167",
+	"longitude": "5.7308335"
 }, {
 	"code": "wd",
 	"uic": "8400702",
@@ -3516,8 +3516,8 @@
 	"shortName": "Woerden",
 	"rdtURL": "woerden",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52085",
-	"geoLong": "4.893611"
+	"latitude": "52085",
+	"longitude": "4.893611"
 }, {
 	"code": "wdn",
 	"uic": "8400691",
@@ -3526,8 +3526,8 @@
 	"shortName": "Wierden",
 	"rdtURL": "wierden",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.36139",
-	"geoLong": "6.5916667"
+	"latitude": "52.36139",
+	"longitude": "6.5916667"
 }, {
 	"code": "wf",
 	"uic": "8400704",
@@ -3536,8 +3536,8 @@
 	"shortName": "Wolfheze",
 	"rdtURL": "wolfheze",
 	"type": "stoptreinstation",
-	"geoLat": "52.005554",
-	"geoLong": "5.793611"
+	"latitude": "52.005554",
+	"longitude": "5.793611"
 }, {
 	"code": "wfm",
 	"uic": "8400679",
@@ -3546,8 +3546,8 @@
 	"shortName": "Warffum",
 	"rdtURL": "warffum",
 	"type": "stoptreinstation",
-	"geoLat": "53.390842",
-	"geoLong": "6.5671363"
+	"latitude": "53.390842",
+	"longitude": "6.5671363"
 }, {
 	"code": "wh",
 	"uic": "8400711",
@@ -3556,8 +3556,8 @@
 	"shortName": "Wijhe",
 	"rdtURL": "wijhe",
 	"type": "stoptreinstation",
-	"geoLat": "52.390278",
-	"geoLong": "6.1405554"
+	"latitude": "52.390278",
+	"longitude": "6.1405554"
 }, {
 	"code": "wk",
 	"uic": "8400706",
@@ -3566,8 +3566,8 @@
 	"shortName": "Workum",
 	"rdtURL": "workum",
 	"type": "stoptreinstation",
-	"geoLat": "52.972485",
-	"geoLong": "5.4564285"
+	"latitude": "52.972485",
+	"longitude": "5.4564285"
 }, {
 	"code": "wl",
 	"uic": "8400686",
@@ -3576,8 +3576,8 @@
 	"shortName": "Wehl",
 	"rdtURL": "wehl",
 	"type": "stoptreinstation",
-	"geoLat": "51.957806",
-	"geoLong": "6.213844"
+	"latitude": "51.957806",
+	"longitude": "6.213844"
 }, {
 	"code": "wm",
 	"uic": "8400707",
@@ -3586,8 +3586,8 @@
 	"shortName": "Wormerveer",
 	"rdtURL": "wormerveer",
 	"type": "stoptreinstation",
-	"geoLat": "52.489166",
-	"geoLong": "4.792222"
+	"latitude": "52.489166",
+	"longitude": "4.792222"
 }, {
 	"code": "wp",
 	"uic": "8400685",
@@ -3596,8 +3596,8 @@
 	"shortName": "Weesp",
 	"rdtURL": "weesp",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.31278",
-	"geoLong": "5.0430555"
+	"latitude": "52.31278",
+	"longitude": "5.0430555"
 }, {
 	"code": "ws",
 	"uic": "8400696",
@@ -3606,8 +3606,8 @@
 	"shortName": "Winschoten",
 	"rdtURL": "winschoten",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.139236",
-	"geoLong": "7.035101"
+	"latitude": "53.139236",
+	"longitude": "7.035101"
 }, {
 	"code": "wsm",
 	"uic": "8400697",
@@ -3616,8 +3616,8 @@
 	"shortName": "Winsum",
 	"rdtURL": "winsum",
 	"type": "stoptreinstation",
-	"geoLat": "53.3301",
-	"geoLong": "6.5202904"
+	"latitude": "53.3301",
+	"longitude": "6.5202904"
 }, {
 	"code": "wt",
 	"uic": "8400684",
@@ -3626,8 +3626,8 @@
 	"shortName": "Weert",
 	"rdtURL": "weert",
 	"type": "intercitystation",
-	"geoLat": "51.24861",
-	"geoLong": "5.703611"
+	"latitude": "51.24861",
+	"longitude": "5.703611"
 }, {
 	"code": "wv",
 	"uic": "8400705",
@@ -3636,8 +3636,8 @@
 	"shortName": "Wolvega",
 	"rdtURL": "wolvega",
 	"type": "stoptreinstation",
-	"geoLat": "52.880833",
-	"geoLong": "6.003611"
+	"latitude": "52.880833",
+	"longitude": "6.003611"
 }, {
 	"code": "ww",
 	"uic": "8400698",
@@ -3646,8 +3646,8 @@
 	"shortName": "Winterswk",
 	"rdtURL": "winterswijk",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.96773",
-	"geoLong": "6.715518"
+	"latitude": "51.96773",
+	"longitude": "6.715518"
 }, {
 	"code": "www",
 	"uic": "8400700",
@@ -3656,8 +3656,8 @@
 	"shortName": "Wintersw W",
 	"rdtURL": "winterswijk-west",
 	"type": "stoptreinstation",
-	"geoLat": "51.97453",
-	"geoLong": "6.70417"
+	"latitude": "51.97453",
+	"longitude": "6.70417"
 }, {
 	"code": "wz",
 	"uic": "8400690",
@@ -3666,8 +3666,8 @@
 	"shortName": "Wezep",
 	"rdtURL": "wezep",
 	"type": "stoptreinstation",
-	"geoLat": "52.454166",
-	"geoLong": "6.0025"
+	"latitude": "52.454166",
+	"longitude": "6.0025"
 }, {
 	"code": "ypb",
 	"uic": "8400379",
@@ -3676,8 +3676,8 @@
 	"shortName": "Ypenburg",
 	"rdtURL": "den-haag-ypenburg",
 	"type": "stoptreinstation",
-	"geoLat": "52.05528",
-	"geoLong": "4.3922224"
+	"latitude": "52.05528",
+	"longitude": "4.3922224"
 }, {
 	"code": "za",
 	"uic": "8400734",
@@ -3686,8 +3686,8 @@
 	"shortName": "Zetten-A",
 	"rdtURL": "zetten-andelst",
 	"type": "stoptreinstation",
-	"geoLat": "51.920055",
-	"geoLong": "5.722841"
+	"latitude": "51.920055",
+	"longitude": "5.722841"
 }, {
 	"code": "zb",
 	"uic": "8400742",
@@ -3696,8 +3696,8 @@
 	"shortName": "Zuidbroek",
 	"rdtURL": "zuidbroek",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.15961",
-	"geoLong": "6.867914"
+	"latitude": "53.15961",
+	"longitude": "6.867914"
 }, {
 	"code": "zbm",
 	"uic": "8400732",
@@ -3706,8 +3706,8 @@
 	"shortName": "Zaltbommel",
 	"rdtURL": "zaltbommel",
 	"type": "stoptreinstation",
-	"geoLat": "51.808887",
-	"geoLong": "5.2633333"
+	"latitude": "51.808887",
+	"longitude": "5.2633333"
 }, {
 	"code": "zd",
 	"uic": "8400731",
@@ -3716,8 +3716,8 @@
 	"shortName": "Zaandam",
 	"rdtURL": "zaandam",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.43889",
-	"geoLong": "4.813611"
+	"latitude": "52.43889",
+	"longitude": "4.813611"
 }, {
 	"code": "zdk",
 	"uic": "8400728",
@@ -3726,8 +3726,8 @@
 	"shortName": "Kogerveld",
 	"rdtURL": "zaandam-kogerveld",
 	"type": "stoptreinstation",
-	"geoLat": "52.456665",
-	"geoLong": "4.8202777"
+	"latitude": "52.456665",
+	"longitude": "4.8202777"
 }, {
 	"code": "zh",
 	"uic": "8400743",
@@ -3736,8 +3736,8 @@
 	"shortName": "Zuidhorn",
 	"rdtURL": "zuidhorn",
 	"type": "stoptreinstation",
-	"geoLat": "53.24863",
-	"geoLong": "6.406236"
+	"latitude": "53.24863",
+	"longitude": "6.406236"
 }, {
 	"code": "zl",
 	"uic": "8400747",
@@ -3746,8 +3746,8 @@
 	"shortName": "Zwolle",
 	"rdtURL": "zwolle",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.504723",
-	"geoLong": "6.091944"
+	"latitude": "52.504723",
+	"longitude": "6.091944"
 }, {
 	"code": "zlw",
 	"uic": "8400382",
@@ -3756,8 +3756,8 @@
 	"shortName": "Lage Zwalu",
 	"rdtURL": "lage-zwaluwe",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.691113",
-	"geoLong": "4.6630554"
+	"latitude": "51.691113",
+	"longitude": "4.6630554"
 }, {
 	"code": "zp",
 	"uic": "8400744",
@@ -3766,8 +3766,8 @@
 	"shortName": "Zutphen",
 	"rdtURL": "zutphen",
 	"type": "knooppuntintercitystation",
-	"geoLat": "52.14528",
-	"geoLong": "6.1941667"
+	"latitude": "52.14528",
+	"longitude": "6.1941667"
 }, {
 	"code": "ztm",
 	"uic": "8400741",
@@ -3776,8 +3776,8 @@
 	"shortName": "Zoetermeer",
 	"rdtURL": "zoetermeer",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "52.0475",
-	"geoLong": "4.4772224"
+	"latitude": "52.0475",
+	"longitude": "4.4772224"
 }, {
 	"code": "ztmo",
 	"uic": "8400740",
@@ -3786,8 +3786,8 @@
 	"shortName": "Z'meer O",
 	"rdtURL": "zoetermeer-oost",
 	"type": "stoptreinstation",
-	"geoLat": "52.04639",
-	"geoLong": "4.492778"
+	"latitude": "52.04639",
+	"longitude": "4.492778"
 }, {
 	"code": "zv",
 	"uic": "8400735",
@@ -3796,8 +3796,8 @@
 	"shortName": "Zevenaar",
 	"rdtURL": "zevenaar",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "51.923054",
-	"geoLong": "6.071944"
+	"latitude": "51.923054",
+	"longitude": "6.071944"
 }, {
 	"code": "zvb",
 	"uic": "8400737",
@@ -3806,8 +3806,8 @@
 	"shortName": "Zevenbergn",
 	"rdtURL": "zevenbergen",
 	"type": "stoptreinstation",
-	"geoLat": "51.64042",
-	"geoLong": "4.60904"
+	"latitude": "51.64042",
+	"longitude": "4.60904"
 }, {
 	"code": "zvt",
 	"uic": "8400733",
@@ -3816,8 +3816,8 @@
 	"shortName": "Zandvoort",
 	"rdtURL": "zandvoort-aan-zee",
 	"type": "stoptreinstation",
-	"geoLat": "52.37528",
-	"geoLong": "4.532778"
+	"latitude": "52.37528",
+	"longitude": "4.532778"
 }, {
 	"code": "zwd",
 	"uic": "8400752",
@@ -3826,8 +3826,8 @@
 	"shortName": "Zwijndrcht",
 	"rdtURL": "zwijndrecht",
 	"type": "stoptreinstation",
-	"geoLat": "51815",
-	"geoLong": "4.641667"
+	"latitude": "51815",
+	"longitude": "4.641667"
 }, {
 	"code": "zww",
 	"uic": "8400745",
@@ -3836,8 +3836,8 @@
 	"shortName": "Zwaagwest",
 	"rdtURL": "zwaagwesteinde",
 	"type": "stoptreinstation",
-	"geoLat": "53.24817",
-	"geoLong": "6.03463"
+	"latitude": "53.24817",
+	"longitude": "6.03463"
 }, {
 	"code": "vdm",
 	"uic": "8400636",
@@ -3846,8 +3846,8 @@
 	"shortName": "Veendam",
 	"rdtURL": "veendam",
 	"type": "knooppuntstoptreinstation",
-	"geoLat": "53.10324",
-	"geoLong": "6.88475"
+	"latitude": "53.10324",
+	"longitude": "6.88475"
 }, {
 	"code": "ssh",
 	"uic": "8400603",
@@ -3856,8 +3856,8 @@
 	"shortName": "Sassenheim",
 	"rdtURL": "sassenheim",
 	"type": "stoptreinstation",
-	"geoLat": "52.21528",
-	"geoLong": "4.517222"
+	"latitude": "52.21528",
+	"longitude": "4.517222"
 }, {
 	"code": "wtv",
 	"uic": "8400688",
@@ -3866,8 +3866,8 @@
 	"shortName": "Westervrt",
 	"rdtURL": "westervoort",
 	"type": "stoptreinstation",
-	"geoLat": "51.96286",
-	"geoLong": "5.9695"
+	"latitude": "51.96286",
+	"longitude": "5.9695"
 }, {
 	"code": "bhdv",
 	"uic": "8400236",
@@ -3876,8 +3876,8 @@
 	"shortName": "Boven-H.",
 	"rdtURL": "boven-hardinxveld",
 	"type": "stoptreinstation",
-	"geoLat": "51.832222",
-	"geoLong": "4.878056"
+	"latitude": "51.832222",
+	"longitude": "4.878056"
 }, {
 	"code": "sdtb",
 	"uic": "8400497",
@@ -3886,8 +3886,8 @@
 	"shortName": "Baanhoek",
 	"rdtURL": "sliedrecht-baanhoek",
 	"type": "stoptreinstation",
-	"geoLat": "51.829723",
-	"geoLong": "4.743333"
+	"latitude": "51.829723",
+	"longitude": "4.743333"
 }, {
 	"code": "hry",
 	"uic": "8400301",
@@ -3896,8 +3896,8 @@
 	"shortName": "H'veen IJs",
 	"rdtURL": "heerenveen-ijsstadion",
 	"type": "facultatiefstation",
-	"geoLat": "52.935276",
-	"geoLong": "5.9438887"
+	"latitude": "52.935276",
+	"longitude": "5.9438887"
 }, {
 	"code": "krw",
 	"uic": "8400573",
@@ -3906,8 +3906,8 @@
 	"shortName": "Kerkrade W",
 	"rdtURL": "kerkrade-west",
 	"type": "facultatiefstation",
-	"geoLat": "50.85355",
-	"geoLong": "6.02578"
+	"latitude": "50.85355",
+	"longitude": "6.02578"
 }, {
 	"code": "olv",
 	"uic": "8400997",
@@ -3916,8 +3916,8 @@
 	"shortName": "Lieve Vrou",
 	"rdtURL": "onze-lieve-vrouwe-t-nood",
 	"type": "facultatiefstation",
-	"geoLat": "52.583332",
-	"geoLong": "4.686667"
+	"latitude": "52.583332",
+	"longitude": "4.686667"
 }, {
 	"code": "spv",
 	"uic": "8400559",
@@ -3926,8 +3926,8 @@
 	"shortName": "Simpelveld",
 	"rdtURL": "simpelveld",
 	"type": "facultatiefstation",
-	"geoLat": "50.831474",
-	"geoLong": "5.979738"
+	"latitude": "50.831474",
+	"longitude": "5.979738"
 }, {
 	"code": "ampo",
 	"uic": "8400450",
@@ -3936,8 +3936,8 @@
 	"shortName": "Almere P",
 	"rdtURL": "almere-poort",
 	"type": "stoptreinstation",
-	"geoLat": "52.342777",
-	"geoLong": "5.151944"
+	"latitude": "52.342777",
+	"longitude": "5.151944"
 }, {
 	"code": "dron",
 	"uic": "8400198",
@@ -3946,8 +3946,8 @@
 	"shortName": "Dronten",
 	"rdtURL": "dronten",
 	"type": "stoptreinstation",
-	"geoLat": "52.5344",
-	"geoLong": "5.72089"
+	"latitude": "52.5344",
+	"longitude": "5.72089"
 }, {
 	"code": "hwzb",
 	"uic": "8400400",
@@ -3956,8 +3956,8 @@
 	"shortName": "Halfweg-Zw",
 	"rdtURL": "halfweg-zwanenburg",
 	"type": "stoptreinstation",
-	"geoLat": "52.384724",
-	"geoLong": "4.751667"
+	"latitude": "52.384724",
+	"longitude": "4.751667"
 }, {
 	"code": "hbzm",
 	"uic": "8400438",
@@ -3966,8 +3966,8 @@
 	"shortName": "Blauwe Z",
 	"rdtURL": "hardinxveld-blauwe-zoom",
 	"type": "stoptreinstation",
-	"geoLat": "51.82944",
-	"geoLong": "4.81556"
+	"latitude": "51.82944",
+	"longitude": "4.81556"
 }, {
 	"code": "hglg",
 	"uic": "8400433",
@@ -3976,8 +3976,8 @@
 	"shortName": "Hengelo G",
 	"rdtURL": "hengelo-gezondheidspark",
 	"type": "stoptreinstation",
-	"geoLat": "52.261665",
-	"geoLong": "6.773611"
+	"latitude": "52.261665",
+	"longitude": "6.773611"
 }, {
 	"code": "hvl",
 	"uic": "8400490",
@@ -3986,8 +3986,8 @@
 	"shortName": "Hoevelaken",
 	"rdtURL": "hoevelaken",
 	"type": "stoptreinstation",
-	"geoLat": "52.16652",
-	"geoLong": "5.45718"
+	"latitude": "52.16652",
+	"longitude": "5.45718"
 }, {
 	"code": "kpnz",
 	"uic": "8400360",
@@ -3996,8 +3996,8 @@
 	"shortName": "Kampen Z",
 	"rdtURL": "kampen-zuid",
 	"type": "stoptreinstation",
-	"geoLat": "52.5331",
-	"geoLong": "5.91309"
+	"latitude": "52.5331",
+	"longitude": "5.91309"
 }, {
 	"code": "sph",
 	"uic": "8400670",
@@ -4006,8 +4006,8 @@
 	"shortName": "Spekholzer",
 	"rdtURL": "spekholzerheide",
 	"type": "facultatiefstation",
-	"geoLat": "50.85355",
-	"geoLong": "6.02578"
+	"latitude": "50.85355",
+	"longitude": "6.02578"
 }, {
 	"code": "wij",
 	"uic": "8400712",
@@ -4016,8 +4016,8 @@
 	"shortName": "Gulpen-W",
 	"rdtURL": "gulpen-wijlre",
 	"type": "facultatiefstation",
-	"geoLat": "50.833057",
-	"geoLong": "5.898056"
+	"latitude": "50.833057",
+	"longitude": "5.898056"
 }, {
 	"code": "wtm",
 	"uic": "8400608",
@@ -4026,8 +4026,8 @@
 	"shortName": "Eijs-Witt",
 	"rdtURL": "eijs-wittem",
 	"type": "facultatiefstation",
-	"geoLat": "50.82317",
-	"geoLong": "5.92479"
+	"latitude": "50.82317",
+	"longitude": "5.92479"
 }, {
 	"code": "adh",
 	"uic": "8400406",
@@ -4036,8 +4036,8 @@
 	"shortName": "Achter d.H",
 	"rdtURL": "leeuwarden-achter-d-hoven",
 	"type": "facultatiefstation",
-	"geoLat": "53.19889",
-	"geoLong": "5.81639"
+	"latitude": "53.19889",
+	"longitude": "5.81639"
 }, {
 	"code": "utlr",
 	"uic": "8400607",
@@ -4046,8 +4046,8 @@
 	"shortName": "Leidsche R",
 	"rdtURL": "utrecht-leidsche-rijn",
 	"type": "stoptreinstation",
-	"geoLat": "52.09896",
-	"geoLong": "5.06523"
+	"latitude": "52.09896",
+	"longitude": "5.06523"
 }, {
 	"code": "hvsm",
 	"uic": "8400324",
@@ -4056,8 +4056,8 @@
 	"shortName": "Media Park",
 	"rdtURL": "hilversum-media-park",
 	"type": "stoptreinstation",
-	"geoLat": "52.238056",
-	"geoLong": "5.1738887"
+	"latitude": "52.238056",
+	"longitude": "5.1738887"
 }, {
 	"code": "mtn",
 	"uic": "8400449",
@@ -4066,6 +4066,6 @@
 	"shortName": "Maastr N",
 	"rdtURL": "maastricht-noord",
 	"type": "stoptreinstation",
-	"geoLat": "50.87087",
-	"geoLong": "5.71774"
+	"latitude": "50.87087",
+	"longitude": "5.71774"
 }]
