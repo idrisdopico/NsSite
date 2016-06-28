@@ -39,7 +39,7 @@
                   	<div class="stationsList-row animatedCSS"
                           ng-class="{active:stations.currentStation==currentStation}"
                           ng-click="stations.setStation(currentStation)"
-                          ng-repeat="currentStation in stations.allStations | limitTo: 5"
+                          ng-repeat="currentStation in stations.allStations | limitTo: 15"
                           >
                           <!-- ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery as filtered" -->
                   	    {{currentStation.name}}
@@ -59,7 +59,7 @@
               </div>
 
               <div id="maps">
-                <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'>
+                <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom' options="stations.map.options">
                   <!-- markers hier -->
                   <ui-gmap-markers models="stations.allStations" idKey="'uic'" coords="'self'" icon="'icon'">
                   </ui-gmap-markers>

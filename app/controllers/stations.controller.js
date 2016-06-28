@@ -43,7 +43,9 @@
         });
 
         vm.map = {
-          center: { latitude: 52, longitude: 5 }, zoom: 7
+          center: { latitude: 52.2, longitude: 5.35 },
+          zoom: 8,
+          options: {mapTypeId: google.maps.MapTypeId.HYBRID }
         };
 
         vm.filtersorting = function(query){
