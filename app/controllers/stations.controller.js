@@ -12,8 +12,16 @@
         vm.newStation = {};
 
         vm.setStation = function(currentStation){
-            if(vm.currentStation != currentStation)
+            if(vm.currentStation != currentStation){
                 vm.currentStation = currentStation;
+                vm.geolat = currentStation.latitude;
+                vm.geolong = currentStation.longitude;
+                vm.map = {
+                  center: { latitude: vm.geolat, longitude: vm.geolong },
+                  zoom: 15,
+                  options: {mapTypeId: google.maps.MapTypeId.HYBRID }
+                }
+              }
             else
                 vm.currentStation = undefined;
 
