@@ -28,7 +28,7 @@
                 <div class="newStation-submit button" ng-click="stations.createStation()">Station toevoegen</div>
             </div> -->
             <div id="left">
-              <h1 id="headTitle">Stations App</h1>
+              <a href=""><h1 id="headTitle">Stations App</h1></a>
               <div class="stationsList">
                   <div>
                     <!-- Er zijn {{stations.allStations.length}} stations in deze array -->
@@ -61,7 +61,7 @@
               <div id="maps">
                 <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom' options="stations.map.options">
                   <!-- markers hier -->
-                  <ui-gmap-markers models="stations.allStations" idKey="'uic'" coords="'self'" icon="'icon'">
+                  <ui-gmap-markers models="stations.allStations" idKey="'uic'" coords="'self'" icon="'icon'" click="stations.markerClicked(uic)">
                   </ui-gmap-markers>
                 </ui-gmap-google-map>
               </div>

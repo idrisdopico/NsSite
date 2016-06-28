@@ -7,7 +7,7 @@
 	"rdtURL": "abcoude",
 	"type": "stoptreinstation",
 	"latitude": "52.2785",
-	"longitude": "4977"
+	"longitude": "4.977"
 }, {
 	"code": "ah",
 	"uic": "8400071",
@@ -16,7 +16,7 @@
 	"shortName": "Arnhem",
 	"rdtURL": "arnhem",
 	"type": "knooppuntintercitystation",
-	"latitude": "51985",
+	"latitude": "51.985",
 	"longitude": "5.8991666"
 }, {
 	"code": "ahp",
@@ -46,7 +46,7 @@
 	"shortName": "Arnhem Z",
 	"rdtURL": "arnhem-zuid",
 	"type": "stoptreinstation",
-	"latitude": "51955",
+	"latitude": "51.955",
 	"longitude": "5.8519444"
 }, {
 	"code": "akl",

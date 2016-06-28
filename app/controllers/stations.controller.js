@@ -24,7 +24,7 @@
               }
             else
                 vm.currentStation = undefined;
-
+          console.log(vm.currentStation);
         };
 
         vm.createStation = function(){
@@ -61,6 +61,19 @@
           this.query = query;
           vm.allStations = filterFilter(vm.allStations,this.query);
         }
+
+        vm.markerClicked = function(uic){
+          //console.log(filterFilter(vm.allStations,uic)[0]);
+          vm.currentStation = filterFilter(vm.allStations,uic)[0]
+          console.log(vm.currentStation);
+        };
+
+
+
+
+
+
+
 
 
 

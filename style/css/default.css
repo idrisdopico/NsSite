@@ -137,6 +137,10 @@ body {
   color:white;
 }
 
+a {
+  text-decoration: none;
+}
+
 #searchInput {
   width:50%;
   text-align: center;
