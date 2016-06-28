@@ -27,35 +27,45 @@
                 <input type="text" placeholder="type" ng-model="stations.newStation.age">
                 <div class="newStation-submit button" ng-click="stations.createStation()">Station toevoegen</div>
             </div> -->
-
-            <div class="stationsList">
-                <div>Er zijn {{stations.allStations.length}} stations in deze array
-                </div>
-                <input type="text" placeholder="Doorzoek de lijst" ng-model="stations.searchQuery">
-                <!--<div ng-click="stations.searchQuery='cee'">filter op cee</div>-->
-                <div>
-                	<div class="stationsList-row animatedCSS"
-                        ng-class="{active:stations.currentStation==currentStation}"
-                        ng-click="stations.setStation(currentStation)"
-                        ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery as filtered">
-                	    {{currentStation.name}}
-                	</div>
-                </div>
+            <div id="left">
+              <h1 id="headTitle">Stations App</h1>
+              <div class="stationsList">
+                  <div>
+                    <!-- Er zijn {{stations.allStations.length}} stations in deze array -->
+                  </div>
+                  <input id="searchInput" type="text" placeholder="Zoeken op naam" ng-model="stations.searchQuery" ng-keyup="stations.filtersorting(stations.searchQuery)">
+                  <!--<div ng-click="stations.searchQuery='cee'">filter op cee</div>-->
+                  <div>
+                  	<div class="stationsList-row animatedCSS"
+                          ng-class="{active:stations.currentStation==currentStation}"
+                          ng-click="stations.setStation(currentStation)"
+                          ng-repeat="currentStation in stations.allStations | limitTo: 5"
+                          >
+                          <!-- ng-repeat="currentStation in stations.allStations | filter:stations.searchQuery as filtered" -->
+                  	    {{currentStation.name}}
+                  	</div>
+                  </div>
+              </div>
             </div>
+            <div id="right">
+                <div id="stationInfo">
+                  <div class="StationDetails animatedCSS" ng-if="stations.currentStation">
+                    <div>Het geselecteerde station: {{stations.currentStation.name}}</div>
+                    <div>Type: {{stations.currentStation.type}}</div>
+                  </div>
+                  <div ng-if="!stations.currentStation">
+                  Geen station geselecteerd
+                  </div>
+              </div>
 
-            <div class="StationDetails animatedCSS" ng-if="stations.currentStation">
-                <div>Het geselecteerde station: {{stations.currentStation.name}}</div>
-                <div>Type: {{stations.currentStation.type}}</div>
-            </div>
-
-            <div id="maps">
-              <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'>
-                <!-- markers hier -->
-                <ui-gmap-markers models="filtered" idKey="'uic'" coords="'self'" icon="'icon'">
-                </ui-gmap-markers>
-              </ui-gmap-google-map>
-            </div>
-
+              <div id="maps">
+                <ui-gmap-google-map center='stations.map.center' zoom='stations.map.zoom'>
+                  <!-- markers hier -->
+                  <ui-gmap-markers models="stations.allStations" idKey="'uic'" coords="'self'" icon="'icon'">
+                  </ui-gmap-markers>
+                </ui-gmap-google-map>
+              </div>
+          </div>
         </div>
 
 
