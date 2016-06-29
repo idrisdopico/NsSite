@@ -64,8 +64,8 @@
 
         vm.markerClicked = function(uic){
           //console.log(filterFilter(vm.allStations,uic)[0]);
-          vm.currentStation = filterFilter(vm.allStations,uic)[0]
-          console.log(vm.currentStation);
+          vm.currentStation = filterFilter(vm.allStations,uic)[0];
+          console.log(vm.currentStation["name"]);
         };
 
 

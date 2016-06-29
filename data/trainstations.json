@@ -597,7 +597,7 @@
 	"rdtURL": "blerick",
 	"type": "stoptreinstation",
 	"latitude": "51.3725",
-	"longitude": "6155"
+	"longitude": "6.155"
 }, {
 	"code": "brd",
 	"uic": "8400090",
@@ -1067,7 +1067,7 @@
 	"rdtURL": "eygelshoven",
 	"type": "stoptreinstation",
 	"latitude": "50.890556",
-	"longitude": "6045"
+	"longitude": "6.045"
 }, {
 	"code": "eghm",
 	"uic": "8400234",
@@ -1177,7 +1177,7 @@
 	"rdtURL": "elst",
 	"type": "knooppuntstoptreinstation",
 	"latitude": "51.916943",
-	"longitude": "5855"
+	"longitude": "5.855"
 }, {
 	"code": "etn",
 	"uic": "8400218",
@@ -1787,7 +1787,7 @@
 	"rdtURL": "heerlen",
 	"type": "knooppuntintercitystation",
 	"latitude": "50.890835",
-	"longitude": "5975"
+	"longitude": "5.975"
 }, {
 	"code": "hrlw",
 	"uic": "8400404",
@@ -2047,7 +2047,7 @@
 	"rdtURL": "koog-zaandijk",
 	"type": "stoptreinstation",
 	"latitude": "52.469166",
-	"longitude": "4805"
+	"longitude": "4.805"
 }, {
 	"code": "laa",
 	"uic": "8400380",
